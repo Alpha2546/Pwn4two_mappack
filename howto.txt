@@ -5,8 +5,7 @@ puts that on PAMM.
 
 You need to edit the modinfo json first.
 
-I've already added an icon for you. Feel free to change it ofcourse. Same goes for the
-display name. I've used your forum name as author as PAMM links to the forum name.
+I've already added an display name. Use your forum name for the author section. add an icon link a forum link
 
 I recommend opening up a forum thread for your maps and adding some pictures. The link of that
 thread you can put that in the forum tag in the modinfo.json file.
