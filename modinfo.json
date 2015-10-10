@@ -1,0 +1,30 @@
+{
+  "context": "client",
+  "identifier": "nl.pa.Pwn4two.pwn4two_map_pack",
+  "display_name": "Pwn4two mappack",
+  "description": "description that will get showed on pamm",
+  "author": "Pwn4two",
+  "version": "1.0",
+  "build": "86765",
+  "date": "2015/010/10",
+  "signature": "not yet implemented",
+  "forum": "Needs a forum link",
+  "icon": "needs an icon",
+  "category": [
+	  "map",
+	  "pack",
+	  "maps",
+	  "system",
+	  "planets",
+	  "planet",
+	  "systems"
+    ],
+    "load_planet": [
+        "coui://ui/mods/pwn4two/maplist.js"
+    ],
+	"priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
