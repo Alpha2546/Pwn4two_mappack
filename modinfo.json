@@ -20,7 +20,7 @@
 	  "systems"
     ],
     "load_planet": [
-        "coui://UI/mods/pwn4two/maplist.js"
+        "coui://ui/mods/pwn4two/maplist.js"
     ],
 	"priority": 100,
     "enabled": true,
