@@ -1,5 +1,6 @@
 {
-    "name": "1v1 (or shared)", "creator": "Pwn4two",
+    "name": "1v1 (or shared)", 
+	"creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/10/11",
 	"description": "A map for 1v1 or shared team play.",

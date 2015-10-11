@@ -1,9 +1,10 @@
 {
     "name": "4v4",
-"creator": "Pwn4two",
+	"creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/10/11",
-	"description": "A map designed for 4v4 shared team play.",    "planets": [
+	"description": "A map designed for 4v4 shared team play.",    
+	"planets": [
         {
             "name": "Brandinium",
             "mass": 5000,

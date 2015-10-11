@@ -1,9 +1,10 @@
 {
     "name": "6 player",
- "creator": "Pwn4two",
+	"creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/10/11",
-	"description": "A map designed for 6 players.",   "planets": [
+	"description": "A map designed for 6 players.",   
+	"planets": [
         {
             "name": "Dian Prime",
             "mass": 10000,

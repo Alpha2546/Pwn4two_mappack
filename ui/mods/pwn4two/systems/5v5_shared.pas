@@ -1,9 +1,10 @@
 {
     "name": "5v5 (shared)",
- "creator": "Pwn4two",
+	"creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/10/11",
-	"description": "A map designed for 5v5 shared team play, but any number of players works.",   "planets": [
+	"description": "A map designed for 5v5 shared team play, but any number of players works.",   
+	"planets": [
         {
             "name": "Blister",
             "mass": 10000,

@@ -1,10 +1,10 @@
 {
     "name": "Kappa (Shared)",
- 
-"creator": "Pwn4two",
+ 	"creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/10/11",
-	"description": "A map designed for 1v1 or shared team play.",   "planets": [
+	"description": "A map designed for 1v1 or shared team play.",   
+	"planets": [
         {
             "name": "Kappa Kappa",
             "mass": 20000,
