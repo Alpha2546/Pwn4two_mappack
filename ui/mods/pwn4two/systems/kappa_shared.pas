@@ -3,7 +3,7 @@
  	"creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/10/11",
-	"description": "A map designed for 1v1 or shared team play.",   
+	"description": "A map designed for 1v1 or shared team play. BE WARNED: This map is not to be taken seriosuly.",   
 	"planets": [
         {
             "name": "Kappa Kappa",

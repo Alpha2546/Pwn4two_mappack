@@ -1,6 +1,11 @@
 {
     "name": "Crackdown",
-    "planets": [
+  
+"creator": "Pwn4two",
+	"version": "1",
+	"date": "2015/10/12",
+	"description": "A map designed for 1v1, 2v2, or 4 player ffa.",
+  "planets": [
         {
             "name": "Ruptus",
             "mass": 35000,

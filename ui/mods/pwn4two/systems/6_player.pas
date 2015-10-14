@@ -3,7 +3,7 @@
 	"creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/10/11",
-	"description": "A map designed for 6 players.",   
+	"description": "A map designed for 6 players and to encourage a variety of play styles. Best played as 2v2v2 or ffa. Shared armies is untested.",   
 	"planets": [
         {
             "name": "Dian Prime",

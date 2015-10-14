@@ -3,7 +3,7 @@
 	"creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/10/11",
-	"description": "A map designed for 4v4 shared team play.",    
+	"description": "A map designed for 4v4 shared team play. Also works with 5v5.",    
 	"planets": [
         {
             "name": "Brandinium",
