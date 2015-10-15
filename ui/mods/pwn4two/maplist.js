@@ -6,6 +6,6 @@ cShareSystems.load_pas("Pwn4two", [
         "coui://ui/mods/pwn4two/systems/control.pas",
 	"coui://ui/mods/pwn4two/systems/crackdown.pas",
         "coui://ui/mods/pwn4two/systems/farenheit.pas",
-	"coui://ui/mods/pwn4two/systems/6_player.pas"
+	"coui://ui/mods/pwn4two/systems/6_player.pas",
         "coui://ui/mods/pwn4two/systems/mania.pas"
 ]);
