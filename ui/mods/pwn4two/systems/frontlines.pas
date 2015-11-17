@@ -1,11 +1,11 @@
 {
     "name": "Frontlines",
-  
+ 
 "creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/11/17",
 	"description": "A map designed for 1v1 play or 2v2 shared.",
-  "planets": [
+   "planets": [
         {
             "name": "Ichaerus",
             "mass": 5000,
@@ -41,15 +41,14 @@
             "source": {
                 "brushes": [
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.6215892434120178,
                             0.7297357320785522,
@@ -64,18 +63,19 @@
                             0.4721902012825012,
                             230.1294403076172
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 3.599461317062378,
                         "scale": [
                             1.2337408065795898,
                             1.2337408065795898,
                             1.2337408065795898
                         ],
-                        "rotation": 3.599461317062378,
+                        "height": 601.2832641601562,
                         "position": [
                             378.52655029296875,
                             406.5706787109375,
                             230.12937927246094
                         ],
-                        "height": 601.2832641601562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -90,15 +90,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.9297260642051697,
                             0.12509378790855408,
@@ -113,18 +112,19 @@
                             0.7538782358169556,
                             388.07916259765625
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 3.057378053665161,
                         "scale": [
                             1.169872760772705,
                             1.169872760772705,
                             1.169872760772705
                         ],
-                        "rotation": 3.057378053665161,
+                        "height": 602.2235717773438,
                         "position": [
                             -359.81524658203125,
                             -287.403564453125,
                             388.0791931152344
                         ],
-                        "height": 602.2235717773438,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -139,15 +139,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.2306606024503708,
                             -0.37633565068244934,
@@ -162,18 +161,19 @@
                             0.32291150093078613,
                             195.06121826171875
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0.5404893159866333,
                         "scale": [
                             0.9988441467285156,
                             0.9988441467285156,
                             0.9988441467285156
                         ],
-                        "rotation": 0.5404893159866333,
+                        "height": 603.3720092773438,
                         "position": [
                             -541.2606811523438,
                             -181.78500366210938,
                             195.061279296875
                         ],
-                        "height": 603.3720092773438,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -188,15 +188,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.324307382106781,
                             0.5031126737594604,
@@ -211,18 +210,19 @@
                             0.5348839163780212,
                             358.8133239746094
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 4.350645065307617,
                         "scale": [
                             0.8963969945907593,
                             0.8963969945907593,
                             0.8963969945907593
                         ],
-                        "rotation": 4.350645065307617,
+                        "height": 601.3252563476562,
                         "position": [
                             -447.61151123046875,
                             180.24705505371094,
                             358.81329345703125
                         ],
-                        "height": 601.3252563476562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -237,15 +237,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.11150235682725906,
                             0.7064632773399353,
@@ -260,18 +259,19 @@
                             0.5057287216186523,
                             392.5652770996094
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 4.715943813323975,
                         "scale": [
                             0.7709490060806274,
                             0.7709490060806274,
                             0.7709490060806274
                         ],
-                        "rotation": 4.715943813323975,
+                        "height": 598.4390258789062,
                         "position": [
                             -223.4149627685547,
                             392.5652770996094,
                             392.5652770996094
                         ],
-                        "height": 598.4390258789062,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -286,15 +286,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.9796785116195679,
                             0.22053992748260498,
@@ -309,18 +308,19 @@
                             0.33409175276756287,
                             159.6703338623047
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 2.8969109058380127,
                         "scale": [
                             1.2588396072387695,
                             1.2588396072387695,
                             1.2588396072387695
                         ],
-                        "rotation": 2.8969109058380127,
+                        "height": 601.629150390625,
                         "position": [
                             -362.8033752441406,
                             -452.5890197753906,
                             159.670166015625
                         ],
-                        "height": 601.629150390625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -335,15 +335,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.019780313596129417,
                             0.9091450572013855,
@@ -358,18 +357,19 @@
                             0.6151869893074036,
                             405.60736083984375
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 4.667802333831787,
                         "scale": [
                             0.9105896949768066,
                             0.9105896949768066,
                             0.9105896949768066
                         ],
-                        "rotation": 4.667802333831787,
+                        "height": 600.3733520507812,
                         "position": [
                             31.187416076660156,
                             441.5406188964844,
                             405.6073913574219
                         ],
-                        "height": 600.3733520507812,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -384,15 +384,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.9132417440414429,
                             -0.22261270880699158,
@@ -407,18 +406,19 @@
                             0.9257127046585083,
                             407.4468688964844
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0.314406156539917,
                         "scale": [
                             1.3682808876037598,
                             1.3682808876037598,
                             1.3682808876037598
                         ],
-                        "rotation": 0.314406156539917,
+                        "height": 602.2406005859375,
                         "position": [
                             437.6336669921875,
                             -71.81604766845703,
                             407.4468688964844
                         ],
-                        "height": 602.2406005859375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -433,15 +433,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.1029670238494873,
                             -0.6765370965003967,
@@ -456,18 +455,19 @@
                             0.37775880098342896,
                             298.9419250488281
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 1.6606084108352661,
                         "scale": [
                             0.7574727535247803,
                             0.7574727535247803,
                             0.7574727535247803
                         ],
-                        "rotation": 1.6606084108352661,
+                        "height": 599.4310302734375,
                         "position": [
                             256.99029541015625,
                             -451.56097412109375,
                             298.9419250488281
                         ],
-                        "height": 599.4310302734375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -482,15 +482,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.7738378643989563,
                             0.885121762752533,
@@ -505,18 +504,19 @@
                             0.9173414707183838,
                             465.73077392578125
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 4.025447368621826,
                         "scale": [
                             1.1804265975952148,
                             1.1804265975952148,
                             1.1804265975952148
                         ],
-                        "rotation": 4.025447368621826,
+                        "height": 599.298095703125,
                         "position": [
                             53.58847427368164,
                             -373.3380126953125,
                             465.7307434082031
                         ],
-                        "height": 599.298095703125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -531,15 +531,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.009645447134971619,
                             -0.863620936870575,
@@ -554,18 +553,19 @@
                             0.7820442318916321,
                             376.9410095214844
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 1.3920412063598633,
                         "scale": [
                             1.2503280639648438,
                             1.2503280639648438,
                             1.2503280639648438
                         ],
-                        "rotation": 1.3920412063598633,
+                        "height": 602.6512451171875,
                         "position": [
                             435.7684326171875,
                             176.66319274902344,
                             376.9410400390625
                         ],
-                        "height": 602.6512451171875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -580,15 +580,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.5659813284873962,
                             0.9258677363395691,
@@ -603,18 +602,19 @@
                             0.7957143187522888,
                             346.1927490234375
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 5.531283378601074,
                         "scale": [
                             1.3813114166259766,
                             1.3813114166259766,
                             1.3813114166259766
                         ],
-                        "rotation": 5.531283378601074,
+                        "height": 600.969482421875,
                         "position": [
                             371.8414001464844,
                             -321.0122985839844,
                             346.1927185058594
                         ],
-                        "height": 600.969482421875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -629,15 +629,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.6215892434120178,
                             0.7297357320785522,
@@ -652,18 +651,19 @@
                             -0.4721902012825012,
                             -230.1294403076172
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 3.599461317062378,
                         "scale": [
                             1.2337408065795898,
                             1.2337408065795898,
                             1.2337408065795898
                         ],
-                        "rotation": 3.599461317062378,
+                        "height": 601.2832641601562,
                         "position": [
                             378.52655029296875,
                             406.5706787109375,
                             230.12937927246094
                         ],
-                        "height": 601.2832641601562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -678,15 +678,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.9297260642051697,
                             0.12509378790855408,
@@ -701,18 +700,19 @@
                             -0.7538782358169556,
                             -388.07916259765625
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 3.057378053665161,
                         "scale": [
                             1.169872760772705,
                             1.169872760772705,
                             1.169872760772705
                         ],
-                        "rotation": 3.057378053665161,
+                        "height": 602.2235717773438,
                         "position": [
                             -359.81524658203125,
                             -287.403564453125,
                             388.0791931152344
                         ],
-                        "height": 602.2235717773438,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -727,15 +727,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.2306606024503708,
                             -0.37633565068244934,
@@ -750,18 +749,19 @@
                             -0.32291150093078613,
                             -195.06121826171875
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0.5404893159866333,
                         "scale": [
                             0.9988441467285156,
                             0.9988441467285156,
                             0.9988441467285156
                         ],
-                        "rotation": 0.5404893159866333,
+                        "height": 603.3720092773438,
                         "position": [
                             -541.2606811523438,
                             -181.78500366210938,
                             195.061279296875
                         ],
-                        "height": 603.3720092773438,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -776,15 +776,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.324307382106781,
                             0.5031126737594604,
@@ -799,18 +798,19 @@
                             -0.5348839163780212,
                             -358.81329345703125
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 4.350645065307617,
                         "scale": [
                             0.8963969945907593,
                             0.8963969945907593,
                             0.8963969945907593
                         ],
-                        "rotation": 4.350645065307617,
+                        "height": 601.3252563476562,
                         "position": [
                             -447.61151123046875,
                             180.24705505371094,
                             358.81329345703125
                         ],
-                        "height": 601.3252563476562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -825,15 +825,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.11150235682725906,
                             0.7064632773399353,
@@ -848,18 +847,19 @@
                             -0.5057287216186523,
                             -392.5652770996094
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 4.715943813323975,
                         "scale": [
                             0.7709490060806274,
                             0.7709490060806274,
                             0.7709490060806274
                         ],
-                        "rotation": 4.715943813323975,
+                        "height": 598.4390258789062,
                         "position": [
                             -223.4149627685547,
                             392.5652770996094,
                             392.5652770996094
                         ],
-                        "height": 598.4390258789062,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -874,15 +874,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.9796785116195679,
                             0.22053992748260498,
@@ -897,18 +896,19 @@
                             -0.33409175276756287,
                             -159.6703338623047
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 2.8969109058380127,
                         "scale": [
                             1.2588396072387695,
                             1.2588396072387695,
                             1.2588396072387695
                         ],
-                        "rotation": 2.8969109058380127,
+                        "height": 601.629150390625,
                         "position": [
                             -362.8033752441406,
                             -452.5890197753906,
                             159.670166015625
                         ],
-                        "height": 601.629150390625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -923,15 +923,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.019780313596129417,
                             0.9091450572013855,
@@ -946,18 +945,19 @@
                             -0.6151869893074036,
                             -405.60736083984375
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 4.667802333831787,
                         "scale": [
                             0.9105896949768066,
                             0.9105896949768066,
                             0.9105896949768066
                         ],
-                        "rotation": 4.667802333831787,
+                        "height": 600.3733520507812,
                         "position": [
                             31.187416076660156,
                             441.5406188964844,
                             405.6073913574219
                         ],
-                        "height": 600.3733520507812,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -972,15 +972,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.9132417440414429,
                             -0.22261270880699158,
@@ -995,18 +994,19 @@
                             -0.9257127046585083,
                             -407.4468688964844
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0.314406156539917,
                         "scale": [
                             1.3682808876037598,
                             1.3682808876037598,
                             1.3682808876037598
                         ],
-                        "rotation": 0.314406156539917,
+                        "height": 602.2406005859375,
                         "position": [
                             437.6336669921875,
                             -71.81604766845703,
                             407.4468688964844
                         ],
-                        "height": 602.2406005859375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1021,15 +1021,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.1029670238494873,
                             -0.6765370965003967,
@@ -1044,18 +1043,19 @@
                             -0.37775880098342896,
                             -298.9419250488281
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 1.6606084108352661,
                         "scale": [
                             0.7574727535247803,
                             0.7574727535247803,
                             0.7574727535247803
                         ],
-                        "rotation": 1.6606084108352661,
+                        "height": 599.4310302734375,
                         "position": [
                             256.99029541015625,
                             -451.56097412109375,
                             298.9419250488281
                         ],
-                        "height": 599.4310302734375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1070,15 +1070,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.7738378643989563,
                             0.885121762752533,
@@ -1093,18 +1092,19 @@
                             -0.9173414707183838,
                             -465.7307434082031
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 4.025447368621826,
                         "scale": [
                             1.1804265975952148,
                             1.1804265975952148,
                             1.1804265975952148
                         ],
-                        "rotation": 4.025447368621826,
+                        "height": 599.298095703125,
                         "position": [
                             53.58847427368164,
                             -373.3380126953125,
                             465.7307434082031
                         ],
-                        "height": 599.298095703125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1119,15 +1119,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.009645447134971619,
                             -0.863620936870575,
@@ -1142,18 +1141,19 @@
                             -0.7820442318916321,
                             -376.9410095214844
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 1.3920412063598633,
                         "scale": [
                             1.2503280639648438,
                             1.2503280639648438,
                             1.2503280639648438
                         ],
-                        "rotation": 1.3920412063598633,
+                        "height": 602.6512451171875,
                         "position": [
                             435.7684326171875,
                             176.66319274902344,
                             376.9410400390625
                         ],
-                        "height": 602.6512451171875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1168,15 +1168,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.5659813284873962,
                             0.9258677363395691,
@@ -1191,18 +1190,19 @@
                             -0.7957143187522888,
                             -346.1927490234375
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 5.531283378601074,
                         "scale": [
                             1.3813114166259766,
                             1.3813114166259766,
                             1.3813114166259766
                         ],
-                        "rotation": 5.531283378601074,
+                        "height": 600.969482421875,
                         "position": [
                             371.8414001464844,
                             -321.0122985839844,
                             346.1927185058594
                         ],
-                        "height": 600.969482421875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1217,15 +1217,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -0.38223087787628174,
                             0.015526791103184223,
@@ -1240,18 +1239,19 @@
                             -0.38240528106689453,
                             -230.1558380126953
                         ],
+                        "op": "BO_Add",
+                        "rotation": 0,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 0,
+                        "height": 601.8636474609375,
                         "position": [
                             556.083740234375,
                             -6.2465667724609375,
                             -230.15576171875
                         ],
-                        "height": 601.8636474609375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1266,15 +1266,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -0.38223087787628174,
                             0.015526791103184223,
@@ -1289,18 +1288,19 @@
                             0.38240528106689453,
                             230.1558380126953
                         ],
+                        "op": "BO_Add",
+                        "rotation": 0,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 0,
+                        "height": 601.8636474609375,
                         "position": [
                             556.083740234375,
                             -6.2465667724609375,
                             -230.15576171875
                         ],
-                        "height": 601.8636474609375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1315,15 +1315,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t2_medium_bend.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t2_medium_bend.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -0.6191508173942566,
                             -0.6285017728805542,
@@ -1338,18 +1337,19 @@
                             -0.8822469711303711,
                             -529.1506958007812
                         ],
+                        "op": "BO_Add",
+                        "rotation": -0.7999997735023499,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -0.7999997735023499,
+                        "height": 599.776123046875,
                         "position": [
                             282.36517333984375,
                             -0.9406013488769531,
                             -529.150634765625
                         ],
-                        "height": 599.776123046875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1364,15 +1364,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t2_medium_bend.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t2_medium_bend.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -0.6191508173942566,
                             -0.6285017728805542,
@@ -1387,18 +1386,19 @@
                             0.8822469711303711,
                             529.1506958007812
                         ],
+                        "op": "BO_Add",
+                        "rotation": -0.7999997735023499,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -0.7999997735023499,
+                        "height": 599.776123046875,
                         "position": [
                             282.36517333984375,
                             -0.9406013488769531,
                             -529.150634765625
                         ],
-                        "height": 599.776123046875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1413,15 +1413,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t3_small_3_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t3_small_3_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             0.5002042055130005,
                             -0.47619423270225525,
@@ -1436,18 +1435,19 @@
                             -0.690463662147522,
                             -415.1874084472656
                         ],
+                        "op": "BO_Add",
+                        "rotation": -2.32999849319458,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -2.32999849319458,
+                        "height": 601.3168334960938,
                         "position": [
                             -434.87939453125,
                             -9.022171020507812,
                             -415.187255859375
                         ],
-                        "height": 601.3168334960938,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1462,15 +1462,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t3_small_3_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t3_small_3_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             0.5002042055130005,
                             -0.47619423270225525,
@@ -1485,18 +1484,19 @@
                             0.690463662147522,
                             415.1874084472656
                         ],
+                        "op": "BO_Add",
+                        "rotation": -2.32999849319458,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -2.32999849319458,
+                        "height": 601.3168334960938,
                         "position": [
                             -434.87939453125,
                             -9.022171020507812,
                             -415.187255859375
                         ],
-                        "height": 601.3168334960938,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1511,15 +1511,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.4916766881942749,
                             0.1721958965063095,
@@ -1534,18 +1533,19 @@
                             -0.4365684986114502,
                             -262.97796630859375
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 1.3099993467330933,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 1.3099993467330933,
+                        "height": 602.3750610351562,
                         "position": [
                             -514.1765747070312,
                             -171.2327117919922,
                             -262.97821044921875
                         ],
-                        "height": 602.3750610351562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1560,15 +1560,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.4916766881942749,
                             0.1721958965063095,
@@ -1583,18 +1582,19 @@
                             0.4365684986114502,
                             262.97796630859375
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 1.3099993467330933,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 1.3099993467330933,
+                        "height": 602.3750610351562,
                         "position": [
                             -514.1765747070312,
                             -171.2327117919922,
                             -262.97821044921875
                         ],
-                        "height": 602.3750610351562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1609,15 +1609,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.42546868324279785,
                             -0.11770934611558914,
@@ -1632,18 +1631,19 @@
                             -0.13360881805419922,
                             -80.54821014404297
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": -1.139999508857727,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -1.139999508857727,
+                        "height": 602.865966796875,
                         "position": [
                             -540.9427490234375,
                             -253.6538848876953,
                             -80.54823303222656
                         ],
-                        "height": 602.865966796875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1658,15 +1658,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.42546868324279785,
                             -0.11770934611558914,
@@ -1681,18 +1680,19 @@
                             0.13360881805419922,
                             80.54821014404297
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": -1.139999508857727,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -1.139999508857727,
+                        "height": 602.865966796875,
                         "position": [
                             -540.9427490234375,
                             -253.6538848876953,
                             -80.54823303222656
                         ],
-                        "height": 602.865966796875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1707,15 +1707,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.40329957008361816,
                             0.1177133172750473,
@@ -1730,18 +1729,19 @@
                             -0.14165019989013672,
                             -85.31687927246094
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 1.1899994611740112,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 1.1899994611740112,
+                        "height": 602.3068237304688,
                         "position": [
                             -546.572509765625,
                             238.22909545898438,
                             -85.3167724609375
                         ],
-                        "height": 602.3068237304688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1756,15 +1756,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.40329957008361816,
                             0.1177133172750473,
@@ -1779,18 +1778,19 @@
                             0.14165019989013672,
                             85.31687927246094
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 1.1899994611740112,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 1.1899994611740112,
+                        "height": 602.3068237304688,
                         "position": [
                             -546.572509765625,
                             238.22909545898438,
                             -85.3167724609375
                         ],
-                        "height": 602.3068237304688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1805,15 +1805,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.053312093019485474,
                             -0.34824010729789734,
@@ -1828,18 +1827,19 @@
                             -0.2121870070695877,
                             -177.1468048095703
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0,
                         "scale": [
                             0.7100002765655518,
                             0.7100002765655518,
                             0.7100002765655518
                         ],
-                        "rotation": 0,
+                        "height": 592.7520141601562,
                         "position": [
                             -523.316650390625,
                             -238.74871826171875,
                             -180.1353302001953
                         ],
-                        "height": 592.7520141601562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1854,15 +1854,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.053312093019485474,
                             -0.34824010729789734,
@@ -1877,18 +1876,19 @@
                             0.2121870070695877,
                             177.14682006835938
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0,
                         "scale": [
                             0.7100002765655518,
                             0.7100002765655518,
                             0.7100002765655518
                         ],
-                        "rotation": 0,
+                        "height": 592.7520141601562,
                         "position": [
                             -523.316650390625,
                             -238.74871826171875,
                             -180.1353302001953
                         ],
-                        "height": 592.7520141601562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1903,15 +1903,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             0.7203787565231323,
                             -0.22310678660869598,
@@ -1926,18 +1925,19 @@
                             0.542364239692688,
                             326.7961120605469
                         ],
+                        "op": "BO_Add",
+                        "rotation": 0,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 0,
+                        "height": 602.5399169921875,
                         "position": [
                             -395.698486328125,
                             -315.72357177734375,
                             326.79608154296875
                         ],
-                        "height": 602.5399169921875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -1952,15 +1952,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             0.7203787565231323,
                             -0.22310678660869598,
@@ -1975,18 +1974,19 @@
                             -0.542364239692688,
                             -326.7961120605469
                         ],
+                        "op": "BO_Add",
+                        "rotation": 0,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 0,
+                        "height": 602.5399169921875,
                         "position": [
                             -395.698486328125,
                             -315.72357177734375,
                             326.79608154296875
                         ],
-                        "height": 602.5399169921875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2001,15 +2001,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.07063152641057968,
                             0.2885851562023163,
@@ -2024,18 +2023,19 @@
                             -0.18949761986732483,
                             -179.3155975341797
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0,
                         "scale": [
                             0.6300003528594971,
                             0.6300003528594971,
                             0.6300003528594971
                         ],
-                        "rotation": 0,
+                        "height": 596.1493530273438,
                         "position": [
                             -531.8673095703125,
                             219.07225036621094,
                             -181.42117309570312
                         ],
-                        "height": 596.1493530273438,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2050,15 +2050,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.07063152641057968,
                             0.2885851562023163,
@@ -2073,18 +2072,19 @@
                             0.18949761986732483,
                             179.31561279296875
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0,
                         "scale": [
                             0.6300003528594971,
                             0.6300003528594971,
                             0.6300003528594971
                         ],
-                        "rotation": 0,
+                        "height": 596.1493530273438,
                         "position": [
                             -531.8673095703125,
                             219.07225036621094,
                             -181.42117309570312
                         ],
-                        "height": 596.1493530273438,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2099,15 +2099,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.46663621068000793,
                             -0.194785475730896,
@@ -2122,18 +2121,19 @@
                             -0.4379582405090332,
                             -264.176025390625
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": -1.269999384880066,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -1.269999384880066,
+                        "height": 603.1990966796875,
                         "position": [
                             -520.4000244140625,
                             152.4593963623047,
                             -264.1761779785156
                         ],
-                        "height": 603.1990966796875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2148,15 +2148,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.46663621068000793,
                             -0.194785475730896,
@@ -2171,18 +2170,19 @@
                             0.4379582405090332,
                             264.1760559082031
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": -1.269999384880066,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -1.269999384880066,
+                        "height": 603.1990966796875,
                         "position": [
                             -520.4000244140625,
                             152.4593963623047,
                             -264.1761779785156
                         ],
-                        "height": 603.1990966796875,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2197,15 +2197,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.10777890682220459,
                             0.459699422121048,
@@ -2220,18 +2219,19 @@
                             -0.2985422611236572,
                             -175.87847900390625
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 0,
+                        "height": 589.1242065429688,
                         "position": [
                             -531.6600341796875,
                             220.62509155273438,
                             -180.05812072753906
                         ],
-                        "height": 589.1242065429688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2246,15 +2246,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             -0.10777890682220459,
                             0.459699422121048,
@@ -2269,18 +2268,19 @@
                             0.2985422611236572,
                             175.87847900390625
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": 0,
+                        "height": 589.1242065429688,
                         "position": [
                             -531.6600341796875,
                             220.62509155273438,
                             -180.05812072753906
                         ],
-                        "height": 589.1242065429688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2295,15 +2295,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             0.017329979687929153,
                             0.0036425949074327946,
@@ -2318,18 +2317,19 @@
                             0.0036269533447921276,
                             1.4817767143249512
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": -1.5599991083145142,
                         "scale": [
                             1.4799995422363281,
                             1.4799995422363281,
                             1.4799995422363281
                         ],
-                        "rotation": -1.5599991083145142,
+                        "height": 604.6476440429688,
                         "position": [
                             -604.6043701171875,
                             -7.081428527832031,
                             1.481842041015625
                         ],
-                        "height": 604.6476440429688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2344,15 +2344,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_medium_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_medium_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -0.6529139876365662,
                             0.6801269054412842,
@@ -2367,18 +2366,19 @@
                             -0.6230376958847046,
                             -372.9770202636719
                         ],
+                        "op": "BO_Add",
+                        "rotation": -1.6099990606307983,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -1.6099990606307983,
+                        "height": 598.6427612304688,
                         "position": [
                             -199.5653076171875,
                             423.59765625,
                             -372.97705078125
                         ],
-                        "height": 598.6427612304688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2393,15 +2393,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/metal/brushes/metal_t1_medium_2_ramp.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/metal/brushes/metal_t1_medium_2_ramp.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -0.6529139876365662,
                             0.6801269054412842,
@@ -2416,18 +2415,19 @@
                             0.6230376958847046,
                             372.9770202636719
                         ],
+                        "op": "BO_Add",
+                        "rotation": -1.6099990606307983,
                         "scale": [
                             1,
                             1,
                             1
                         ],
-                        "rotation": -1.6099990606307983,
+                        "height": 598.6427612304688,
                         "position": [
                             -199.5653076171875,
                             423.59765625,
                             -372.97705078125
                         ],
-                        "height": 598.6427612304688,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2442,15 +2442,14 @@
                         "no_features": true
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             3.013678550720215,
                             0.3483097553253174,
@@ -2465,18 +2464,19 @@
                             -1.0555715560913086,
                             -201.03775024414062
                         ],
+                        "op": "BO_Add",
+                        "rotation": -0.5200000405311584,
                         "scale": [
                             3.1599979400634766,
                             3.1599979400634766,
                             3.1599979400634766
                         ],
-                        "rotation": -0.5200000405311584,
+                        "height": 601.8340454101562,
                         "position": [
                             168.4207763671875,
                             541.684814453125,
                             -201.03778076171875
                         ],
-                        "height": 601.8340454101562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2491,15 +2491,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             3.013678550720215,
                             0.3483097553253174,
@@ -2514,18 +2513,19 @@
                             1.0555715560913086,
                             201.03775024414062
                         ],
+                        "op": "BO_Add",
+                        "rotation": -0.5200000405311584,
                         "scale": [
                             3.1599979400634766,
                             3.1599979400634766,
                             3.1599979400634766
                         ],
-                        "rotation": -0.5200000405311584,
+                        "height": 601.8340454101562,
                         "position": [
                             168.4207763671875,
                             541.684814453125,
                             -201.03778076171875
                         ],
-                        "height": 601.8340454101562,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2540,15 +2540,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             1.6143592596054077,
                             -0.8695981502532959,
@@ -2563,18 +2562,19 @@
                             -1.3585280179977417,
                             -329.6534729003906
                         ],
+                        "op": "BO_Add",
+                        "rotation": -1.079999566078186,
                         "scale": [
                             2.4799985885620117,
                             2.4799985885620117,
                             2.4799985885620117
                         ],
-                        "rotation": -1.079999566078186,
+                        "height": 601.7838134765625,
                         "position": [
                             405.1708984375,
                             298.845947265625,
                             -329.65350341796875
                         ],
-                        "height": 601.7838134765625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2589,15 +2589,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             1.6143592596054077,
                             -0.8695981502532959,
@@ -2612,18 +2611,19 @@
                             1.3585280179977417,
                             329.6534729003906
                         ],
+                        "op": "BO_Add",
+                        "rotation": -1.079999566078186,
                         "scale": [
                             2.4799985885620117,
                             2.4799985885620117,
                             2.4799985885620117
                         ],
-                        "rotation": -1.079999566078186,
+                        "height": 601.7838134765625,
                         "position": [
                             405.1708984375,
                             298.845947265625,
                             -329.65350341796875
                         ],
-                        "height": 601.7838134765625,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2638,15 +2638,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -1.3600921630859375,
                             -0.10231459140777588,
@@ -2661,18 +2660,19 @@
                             0.04068734496831894,
                             11.97496223449707
                         ],
+                        "op": "BO_Add",
+                        "rotation": 2.2499985694885254,
                         "scale": [
                             2.039999008178711,
                             2.039999008178711,
                             2.039999008178711
                         ],
-                        "rotation": 2.2499985694885254,
+                        "height": 600.4056396484375,
                         "position": [
                             446.4771728515625,
                             401.2501220703125,
                             11.974884033203125
                         ],
-                        "height": 600.4056396484375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2687,15 +2687,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -3.2203361988067627,
                             0.3174554407596588,
@@ -2710,18 +2709,19 @@
                             -0.04728325456380844,
                             -8.696863174438477
                         ],
+                        "op": "BO_Add",
+                        "rotation": -2.9199979305267334,
                         "scale": [
                             3.259997844696045,
                             3.259997844696045,
                             3.259997844696045
                         ],
-                        "rotation": -2.9199979305267334,
+                        "height": 599.6151733398438,
                         "position": [
                             -72.703369140625,
                             595.127685546875,
                             -8.696914672851562
                         ],
-                        "height": 599.6151733398438,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2736,15 +2736,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             5.013685703277588,
                             -5.183541297912598,
@@ -2759,18 +2758,19 @@
                             -5.075954437255859,
                             -409.8822021484375
                         ],
+                        "op": "BO_Add",
+                        "rotation": 0.21999996900558472,
                         "scale": [
                             7.439993858337402,
                             7.439993858337402,
                             7.439993858337402
                         ],
-                        "rotation": 0.21999996900558472,
+                        "height": 600.77783203125,
                         "position": [
                             147.73797607421875,
                             413.6470947265625,
                             -409.88238525390625
                         ],
-                        "height": 600.77783203125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2785,15 +2785,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             5.013685703277588,
                             -5.183541297912598,
@@ -2808,18 +2807,19 @@
                             5.075954437255859,
                             409.8822021484375
                         ],
+                        "op": "BO_Add",
+                        "rotation": 0.21999996900558472,
                         "scale": [
                             7.439993858337402,
                             7.439993858337402,
                             7.439993858337402
                         ],
-                        "rotation": 0.21999996900558472,
+                        "height": 600.77783203125,
                         "position": [
                             147.73797607421875,
                             413.6470947265625,
                             -409.88238525390625
                         ],
-                        "height": 600.77783203125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2834,15 +2834,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Subtract",
                         "transform": [
                             3.531952381134033,
                             -0.4551381766796112,
@@ -2857,18 +2856,19 @@
                             -0.036829471588134766,
                             -6.165234088897705
                         ],
+                        "op": "BO_Subtract",
+                        "rotation": 0,
                         "scale": [
                             3.5899975299835205,
                             3.5899975299835205,
                             3.5899975299835205
                         ],
-                        "rotation": 0,
+                        "height": 600.9636840820312,
                         "position": [
                             -76.02304077148438,
                             -596.1038818359375,
                             -6.165283203125
                         ],
-                        "height": 600.9636840820312,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2883,15 +2883,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             0.2667582035064697,
                             2.5277533531188965,
@@ -2906,18 +2905,19 @@
                             0.09684917330741882,
                             20.426651000976562
                         ],
+                        "op": "BO_Add",
+                        "rotation": -1.019999384880066,
                         "scale": [
                             2.839998245239258,
                             2.839998245239258,
                             2.839998245239258
                         ],
-                        "rotation": -1.019999384880066,
+                        "height": 598.9896240234375,
                         "position": [
                             267.19244384765625,
                             -535.7047119140625,
                             20.426620483398438
                         ],
-                        "height": 598.9896240234375,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2932,15 +2932,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -1.383868932723999,
                             4.30538272857666,
@@ -2955,18 +2954,19 @@
                             -2.207836627960205,
                             -284.8350830078125
                         ],
+                        "op": "BO_Add",
+                        "rotation": -1.4999991655349731,
                         "scale": [
                             4.639996528625488,
                             4.639996528625488,
                             4.639996528625488
                         ],
-                        "rotation": -1.4999991655349731,
+                        "height": 598.6102905273438,
                         "position": [
                             133.95755004882812,
                             -509.1744384765625,
                             -284.83514404296875
                         ],
-                        "height": 598.6102905273438,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -2981,15 +2981,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             -1.383868932723999,
                             4.30538272857666,
@@ -3004,18 +3003,19 @@
                             2.207836627960205,
                             284.8350830078125
                         ],
+                        "op": "BO_Add",
+                        "rotation": -1.4999991655349731,
                         "scale": [
                             4.639996528625488,
                             4.639996528625488,
                             4.639996528625488
                         ],
-                        "rotation": -1.4999991655349731,
+                        "height": 598.6102905273438,
                         "position": [
                             133.95755004882812,
                             -509.1744384765625,
                             -284.83514404296875
                         ],
-                        "height": 598.6102905273438,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -3030,15 +3030,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             2.0936899185180664,
                             -0.12526386976242065,
@@ -3053,18 +3052,19 @@
                             -1.072868824005127,
                             -282.5413513183594
                         ],
+                        "op": "BO_Add",
+                        "rotation": -0.6299996972084045,
                         "scale": [
                             2.279998779296875,
                             2.279998779296875,
                             2.279998779296875
                         ],
-                        "rotation": -0.6299996972084045,
+                        "height": 600.4405517578125,
                         "position": [
                             -235.4256591796875,
                             -474.63037109375,
                             -282.54144287109375
                         ],
-                        "height": 600.4405517578125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -3079,15 +3079,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             2.0936899185180664,
                             -0.12526386976242065,
@@ -3102,18 +3101,19 @@
                             1.072868824005127,
                             282.5413513183594
                         ],
+                        "op": "BO_Add",
+                        "rotation": -0.6299996972084045,
                         "scale": [
                             2.279998779296875,
                             2.279998779296875,
                             2.279998779296875
                         ],
-                        "rotation": -0.6299996972084045,
+                        "height": 600.4405517578125,
                         "position": [
                             -235.4256591796875,
                             -474.63037109375,
                             -282.54144287109375
                         ],
-                        "height": 600.4405517578125,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -3128,15 +3128,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             3.599963426589966,
                             0.14344489574432373,
@@ -3151,18 +3150,19 @@
                             -2.954759120941162,
                             -483.5823669433594
                         ],
+                        "op": "BO_Add",
+                        "rotation": -0.5899997353553772,
                         "scale": [
                             3.6599974632263184,
                             3.6599974632263184,
                             3.6599974632263184
                         ],
-                        "rotation": -0.5899997353553772,
+                        "height": 599.0032348632812,
                         "position": [
                             -105.46609497070312,
                             -337.386962890625,
                             -483.582275390625
                         ],
-                        "height": 599.0032348632812,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -3177,15 +3177,14 @@
                         "no_features": false
                     },
                     {
-                        "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                         "weight": [
                             1,
                             1,
                             1,
                             1
                         ],
+                        "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                         "proj": "BP_Bend",
-                        "op": "BO_Add",
                         "transform": [
                             3.599963426589966,
                             0.14344489574432373,
@@ -3200,18 +3199,19 @@
                             2.954759120941162,
                             483.5823669433594
                         ],
+                        "op": "BO_Add",
+                        "rotation": -0.5899997353553772,
                         "scale": [
                             3.6599974632263184,
                             3.6599974632263184,
                             3.6599974632263184
                         ],
-                        "rotation": -0.5899997353553772,
+                        "height": 599.0032348632812,
                         "position": [
                             -105.46609497070312,
                             -337.386962890625,
                             -483.582275390625
                         ],
-                        "height": 599.0032348632812,
                         "weightHard": false,
                         "weightScale": [
                             1,
@@ -3715,15 +3715,14 @@
             },
             "planetCSG": [
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.6215892434120178,
                         0.7297357320785522,
@@ -3738,18 +3737,19 @@
                         0.4721902012825012,
                         230.1294403076172
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 3.599461317062378,
                     "scale": [
                         1.2337408065795898,
                         1.2337408065795898,
                         1.2337408065795898
                     ],
-                    "rotation": 3.599461317062378,
+                    "height": 601.2832641601562,
                     "position": [
                         378.52655029296875,
                         406.5706787109375,
                         230.12937927246094
                     ],
-                    "height": 601.2832641601562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -3764,15 +3764,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.9297260642051697,
                         0.12509378790855408,
@@ -3787,18 +3786,19 @@
                         0.7538782358169556,
                         388.07916259765625
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 3.057378053665161,
                     "scale": [
                         1.169872760772705,
                         1.169872760772705,
                         1.169872760772705
                     ],
-                    "rotation": 3.057378053665161,
+                    "height": 602.2235717773438,
                     "position": [
                         -359.81524658203125,
                         -287.403564453125,
                         388.0791931152344
                     ],
-                    "height": 602.2235717773438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -3813,15 +3813,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.2306606024503708,
                         -0.37633565068244934,
@@ -3836,18 +3835,19 @@
                         0.32291150093078613,
                         195.06121826171875
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0.5404893159866333,
                     "scale": [
                         0.9988441467285156,
                         0.9988441467285156,
                         0.9988441467285156
                     ],
-                    "rotation": 0.5404893159866333,
+                    "height": 603.3720092773438,
                     "position": [
                         -541.2606811523438,
                         -181.78500366210938,
                         195.061279296875
                     ],
-                    "height": 603.3720092773438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -3862,15 +3862,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.324307382106781,
                         0.5031126737594604,
@@ -3885,18 +3884,19 @@
                         0.5348839163780212,
                         358.8133239746094
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 4.350645065307617,
                     "scale": [
                         0.8963969945907593,
                         0.8963969945907593,
                         0.8963969945907593
                     ],
-                    "rotation": 4.350645065307617,
+                    "height": 601.3252563476562,
                     "position": [
                         -447.61151123046875,
                         180.24705505371094,
                         358.81329345703125
                     ],
-                    "height": 601.3252563476562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -3911,15 +3911,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.11150235682725906,
                         0.7064632773399353,
@@ -3934,18 +3933,19 @@
                         0.5057287216186523,
                         392.5652770996094
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 4.715943813323975,
                     "scale": [
                         0.7709490060806274,
                         0.7709490060806274,
                         0.7709490060806274
                     ],
-                    "rotation": 4.715943813323975,
+                    "height": 598.4390258789062,
                     "position": [
                         -223.4149627685547,
                         392.5652770996094,
                         392.5652770996094
                     ],
-                    "height": 598.4390258789062,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -3960,15 +3960,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.9796785116195679,
                         0.22053992748260498,
@@ -3983,18 +3982,19 @@
                         0.33409175276756287,
                         159.6703338623047
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 2.8969109058380127,
                     "scale": [
                         1.2588396072387695,
                         1.2588396072387695,
                         1.2588396072387695
                     ],
-                    "rotation": 2.8969109058380127,
+                    "height": 601.629150390625,
                     "position": [
                         -362.8033752441406,
                         -452.5890197753906,
                         159.670166015625
                     ],
-                    "height": 601.629150390625,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4009,15 +4009,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.019780313596129417,
                         0.9091450572013855,
@@ -4032,18 +4031,19 @@
                         0.6151869893074036,
                         405.60736083984375
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 4.667802333831787,
                     "scale": [
                         0.9105896949768066,
                         0.9105896949768066,
                         0.9105896949768066
                     ],
-                    "rotation": 4.667802333831787,
+                    "height": 600.3733520507812,
                     "position": [
                         31.187416076660156,
                         441.5406188964844,
                         405.6073913574219
                     ],
-                    "height": 600.3733520507812,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4058,15 +4058,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.9132417440414429,
                         -0.22261270880699158,
@@ -4081,18 +4080,19 @@
                         0.9257127046585083,
                         407.4468688964844
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0.314406156539917,
                     "scale": [
                         1.3682808876037598,
                         1.3682808876037598,
                         1.3682808876037598
                     ],
-                    "rotation": 0.314406156539917,
+                    "height": 602.2406005859375,
                     "position": [
                         437.6336669921875,
                         -71.81604766845703,
                         407.4468688964844
                     ],
-                    "height": 602.2406005859375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4107,15 +4107,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.1029670238494873,
                         -0.6765370965003967,
@@ -4130,18 +4129,19 @@
                         0.37775880098342896,
                         298.9419250488281
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 1.6606084108352661,
                     "scale": [
                         0.7574727535247803,
                         0.7574727535247803,
                         0.7574727535247803
                     ],
-                    "rotation": 1.6606084108352661,
+                    "height": 599.4310302734375,
                     "position": [
                         256.99029541015625,
                         -451.56097412109375,
                         298.9419250488281
                     ],
-                    "height": 599.4310302734375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4156,15 +4156,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.7738378643989563,
                         0.885121762752533,
@@ -4179,18 +4178,19 @@
                         0.9173414707183838,
                         465.73077392578125
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 4.025447368621826,
                     "scale": [
                         1.1804265975952148,
                         1.1804265975952148,
                         1.1804265975952148
                     ],
-                    "rotation": 4.025447368621826,
+                    "height": 599.298095703125,
                     "position": [
                         53.58847427368164,
                         -373.3380126953125,
                         465.7307434082031
                     ],
-                    "height": 599.298095703125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4205,15 +4205,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.009645447134971619,
                         -0.863620936870575,
@@ -4228,18 +4227,19 @@
                         0.7820442318916321,
                         376.9410095214844
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 1.3920412063598633,
                     "scale": [
                         1.2503280639648438,
                         1.2503280639648438,
                         1.2503280639648438
                     ],
-                    "rotation": 1.3920412063598633,
+                    "height": 602.6512451171875,
                     "position": [
                         435.7684326171875,
                         176.66319274902344,
                         376.9410400390625
                     ],
-                    "height": 602.6512451171875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4254,15 +4254,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.5659813284873962,
                         0.9258677363395691,
@@ -4277,18 +4276,19 @@
                         0.7957143187522888,
                         346.1927490234375
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 5.531283378601074,
                     "scale": [
                         1.3813114166259766,
                         1.3813114166259766,
                         1.3813114166259766
                     ],
-                    "rotation": 5.531283378601074,
+                    "height": 600.969482421875,
                     "position": [
                         371.8414001464844,
                         -321.0122985839844,
                         346.1927185058594
                     ],
-                    "height": 600.969482421875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4303,15 +4303,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.6215892434120178,
                         0.7297357320785522,
@@ -4326,18 +4325,19 @@
                         -0.4721902012825012,
                         -230.1294403076172
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 3.599461317062378,
                     "scale": [
                         1.2337408065795898,
                         1.2337408065795898,
                         1.2337408065795898
                     ],
-                    "rotation": 3.599461317062378,
+                    "height": 601.2832641601562,
                     "position": [
                         378.52655029296875,
                         406.5706787109375,
                         230.12937927246094
                     ],
-                    "height": 601.2832641601562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4352,15 +4352,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.9297260642051697,
                         0.12509378790855408,
@@ -4375,18 +4374,19 @@
                         -0.7538782358169556,
                         -388.07916259765625
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 3.057378053665161,
                     "scale": [
                         1.169872760772705,
                         1.169872760772705,
                         1.169872760772705
                     ],
-                    "rotation": 3.057378053665161,
+                    "height": 602.2235717773438,
                     "position": [
                         -359.81524658203125,
                         -287.403564453125,
                         388.0791931152344
                     ],
-                    "height": 602.2235717773438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4401,15 +4401,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.2306606024503708,
                         -0.37633565068244934,
@@ -4424,18 +4423,19 @@
                         -0.32291150093078613,
                         -195.06121826171875
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0.5404893159866333,
                     "scale": [
                         0.9988441467285156,
                         0.9988441467285156,
                         0.9988441467285156
                     ],
-                    "rotation": 0.5404893159866333,
+                    "height": 603.3720092773438,
                     "position": [
                         -541.2606811523438,
                         -181.78500366210938,
                         195.061279296875
                     ],
-                    "height": 603.3720092773438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4450,15 +4450,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.324307382106781,
                         0.5031126737594604,
@@ -4473,18 +4472,19 @@
                         -0.5348839163780212,
                         -358.81329345703125
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 4.350645065307617,
                     "scale": [
                         0.8963969945907593,
                         0.8963969945907593,
                         0.8963969945907593
                     ],
-                    "rotation": 4.350645065307617,
+                    "height": 601.3252563476562,
                     "position": [
                         -447.61151123046875,
                         180.24705505371094,
                         358.81329345703125
                     ],
-                    "height": 601.3252563476562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4499,15 +4499,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.11150235682725906,
                         0.7064632773399353,
@@ -4522,18 +4521,19 @@
                         -0.5057287216186523,
                         -392.5652770996094
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 4.715943813323975,
                     "scale": [
                         0.7709490060806274,
                         0.7709490060806274,
                         0.7709490060806274
                     ],
-                    "rotation": 4.715943813323975,
+                    "height": 598.4390258789062,
                     "position": [
                         -223.4149627685547,
                         392.5652770996094,
                         392.5652770996094
                     ],
-                    "height": 598.4390258789062,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4548,15 +4548,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.9796785116195679,
                         0.22053992748260498,
@@ -4571,18 +4570,19 @@
                         -0.33409175276756287,
                         -159.6703338623047
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 2.8969109058380127,
                     "scale": [
                         1.2588396072387695,
                         1.2588396072387695,
                         1.2588396072387695
                     ],
-                    "rotation": 2.8969109058380127,
+                    "height": 601.629150390625,
                     "position": [
                         -362.8033752441406,
                         -452.5890197753906,
                         159.670166015625
                     ],
-                    "height": 601.629150390625,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4597,15 +4597,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.019780313596129417,
                         0.9091450572013855,
@@ -4620,18 +4619,19 @@
                         -0.6151869893074036,
                         -405.60736083984375
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 4.667802333831787,
                     "scale": [
                         0.9105896949768066,
                         0.9105896949768066,
                         0.9105896949768066
                     ],
-                    "rotation": 4.667802333831787,
+                    "height": 600.3733520507812,
                     "position": [
                         31.187416076660156,
                         441.5406188964844,
                         405.6073913574219
                     ],
-                    "height": 600.3733520507812,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4646,15 +4646,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.9132417440414429,
                         -0.22261270880699158,
@@ -4669,18 +4668,19 @@
                         -0.9257127046585083,
                         -407.4468688964844
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0.314406156539917,
                     "scale": [
                         1.3682808876037598,
                         1.3682808876037598,
                         1.3682808876037598
                     ],
-                    "rotation": 0.314406156539917,
+                    "height": 602.2406005859375,
                     "position": [
                         437.6336669921875,
                         -71.81604766845703,
                         407.4468688964844
                     ],
-                    "height": 602.2406005859375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4695,15 +4695,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.1029670238494873,
                         -0.6765370965003967,
@@ -4718,18 +4717,19 @@
                         -0.37775880098342896,
                         -298.9419250488281
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 1.6606084108352661,
                     "scale": [
                         0.7574727535247803,
                         0.7574727535247803,
                         0.7574727535247803
                     ],
-                    "rotation": 1.6606084108352661,
+                    "height": 599.4310302734375,
                     "position": [
                         256.99029541015625,
                         -451.56097412109375,
                         298.9419250488281
                     ],
-                    "height": 599.4310302734375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4744,15 +4744,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.7738378643989563,
                         0.885121762752533,
@@ -4767,18 +4766,19 @@
                         -0.9173414707183838,
                         -465.7307434082031
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 4.025447368621826,
                     "scale": [
                         1.1804265975952148,
                         1.1804265975952148,
                         1.1804265975952148
                     ],
-                    "rotation": 4.025447368621826,
+                    "height": 599.298095703125,
                     "position": [
                         53.58847427368164,
                         -373.3380126953125,
                         465.7307434082031
                     ],
-                    "height": 599.298095703125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4793,15 +4793,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.009645447134971619,
                         -0.863620936870575,
@@ -4816,18 +4815,19 @@
                         -0.7820442318916321,
                         -376.9410095214844
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 1.3920412063598633,
                     "scale": [
                         1.2503280639648438,
                         1.2503280639648438,
                         1.2503280639648438
                     ],
-                    "rotation": 1.3920412063598633,
+                    "height": 602.6512451171875,
                     "position": [
                         435.7684326171875,
                         176.66319274902344,
                         376.9410400390625
                     ],
-                    "height": 602.6512451171875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4842,15 +4842,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.5659813284873962,
                         0.9258677363395691,
@@ -4865,18 +4864,19 @@
                         -0.7957143187522888,
                         -346.1927490234375
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 5.531283378601074,
                     "scale": [
                         1.3813114166259766,
                         1.3813114166259766,
                         1.3813114166259766
                     ],
-                    "rotation": 5.531283378601074,
+                    "height": 600.969482421875,
                     "position": [
                         371.8414001464844,
                         -321.0122985839844,
                         346.1927185058594
                     ],
-                    "height": 600.969482421875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4891,15 +4891,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -0.38223087787628174,
                         0.015526791103184223,
@@ -4914,18 +4913,19 @@
                         -0.38240528106689453,
                         -230.1558380126953
                     ],
+                    "op": "BO_Add",
+                    "rotation": 0,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 0,
+                    "height": 601.8636474609375,
                     "position": [
                         556.083740234375,
                         -6.2465667724609375,
                         -230.15576171875
                     ],
-                    "height": 601.8636474609375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4940,15 +4940,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_wide_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -0.38223087787628174,
                         0.015526791103184223,
@@ -4963,18 +4962,19 @@
                         0.38240528106689453,
                         230.1558380126953
                     ],
+                    "op": "BO_Add",
+                    "rotation": 0,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 0,
+                    "height": 601.8636474609375,
                     "position": [
                         556.083740234375,
                         -6.2465667724609375,
                         -230.15576171875
                     ],
-                    "height": 601.8636474609375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -4989,15 +4989,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_bend.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_bend.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -0.6191508173942566,
                         -0.6285017728805542,
@@ -5012,18 +5011,19 @@
                         -0.8822469711303711,
                         -529.1506958007812
                     ],
+                    "op": "BO_Add",
+                    "rotation": -0.7999997735023499,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -0.7999997735023499,
+                    "height": 599.776123046875,
                     "position": [
                         282.36517333984375,
                         -0.9406013488769531,
                         -529.150634765625
                     ],
-                    "height": 599.776123046875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5038,15 +5038,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_bend.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t2_medium_bend.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -0.6191508173942566,
                         -0.6285017728805542,
@@ -5061,18 +5060,19 @@
                         0.8822469711303711,
                         529.1506958007812
                     ],
+                    "op": "BO_Add",
+                    "rotation": -0.7999997735023499,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -0.7999997735023499,
+                    "height": 599.776123046875,
                     "position": [
                         282.36517333984375,
                         -0.9406013488769531,
                         -529.150634765625
                     ],
-                    "height": 599.776123046875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5087,15 +5087,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t3_small_3_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t3_small_3_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         0.5002042055130005,
                         -0.47619423270225525,
@@ -5110,18 +5109,19 @@
                         -0.690463662147522,
                         -415.1874084472656
                     ],
+                    "op": "BO_Add",
+                    "rotation": -2.32999849319458,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -2.32999849319458,
+                    "height": 601.3168334960938,
                     "position": [
                         -434.87939453125,
                         -9.022171020507812,
                         -415.187255859375
                     ],
-                    "height": 601.3168334960938,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5136,15 +5136,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t3_small_3_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t3_small_3_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         0.5002042055130005,
                         -0.47619423270225525,
@@ -5159,18 +5158,19 @@
                         0.690463662147522,
                         415.1874084472656
                     ],
+                    "op": "BO_Add",
+                    "rotation": -2.32999849319458,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -2.32999849319458,
+                    "height": 601.3168334960938,
                     "position": [
                         -434.87939453125,
                         -9.022171020507812,
                         -415.187255859375
                     ],
-                    "height": 601.3168334960938,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5185,15 +5185,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.4916766881942749,
                         0.1721958965063095,
@@ -5208,18 +5207,19 @@
                         -0.4365684986114502,
                         -262.97796630859375
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 1.3099993467330933,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 1.3099993467330933,
+                    "height": 602.3750610351562,
                     "position": [
                         -514.1765747070312,
                         -171.2327117919922,
                         -262.97821044921875
                     ],
-                    "height": 602.3750610351562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5234,15 +5234,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.4916766881942749,
                         0.1721958965063095,
@@ -5257,18 +5256,19 @@
                         0.4365684986114502,
                         262.97796630859375
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 1.3099993467330933,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 1.3099993467330933,
+                    "height": 602.3750610351562,
                     "position": [
                         -514.1765747070312,
                         -171.2327117919922,
                         -262.97821044921875
                     ],
-                    "height": 602.3750610351562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5283,15 +5283,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.42546868324279785,
                         -0.11770934611558914,
@@ -5306,18 +5305,19 @@
                         -0.13360881805419922,
                         -80.54821014404297
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": -1.139999508857727,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -1.139999508857727,
+                    "height": 602.865966796875,
                     "position": [
                         -540.9427490234375,
                         -253.6538848876953,
                         -80.54823303222656
                     ],
-                    "height": 602.865966796875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5332,15 +5332,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.42546868324279785,
                         -0.11770934611558914,
@@ -5355,18 +5354,19 @@
                         0.13360881805419922,
                         80.54821014404297
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": -1.139999508857727,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -1.139999508857727,
+                    "height": 602.865966796875,
                     "position": [
                         -540.9427490234375,
                         -253.6538848876953,
                         -80.54823303222656
                     ],
-                    "height": 602.865966796875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5381,15 +5381,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.40329957008361816,
                         0.1177133172750473,
@@ -5404,18 +5403,19 @@
                         -0.14165019989013672,
                         -85.31687927246094
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 1.1899994611740112,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 1.1899994611740112,
+                    "height": 602.3068237304688,
                     "position": [
                         -546.572509765625,
                         238.22909545898438,
                         -85.3167724609375
                     ],
-                    "height": 602.3068237304688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5430,15 +5430,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.40329957008361816,
                         0.1177133172750473,
@@ -5453,18 +5452,19 @@
                         0.14165019989013672,
                         85.31687927246094
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 1.1899994611740112,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 1.1899994611740112,
+                    "height": 602.3068237304688,
                     "position": [
                         -546.572509765625,
                         238.22909545898438,
                         -85.3167724609375
                     ],
-                    "height": 602.3068237304688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5479,15 +5479,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.053312093019485474,
                         -0.34824010729789734,
@@ -5502,18 +5501,19 @@
                         -0.2121870070695877,
                         -177.1468048095703
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0,
                     "scale": [
                         0.7100002765655518,
                         0.7100002765655518,
                         0.7100002765655518
                     ],
-                    "rotation": 0,
+                    "height": 592.7520141601562,
                     "position": [
                         -523.316650390625,
                         -238.74871826171875,
                         -180.1353302001953
                     ],
-                    "height": 592.7520141601562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5528,15 +5528,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.053312093019485474,
                         -0.34824010729789734,
@@ -5551,18 +5550,19 @@
                         0.2121870070695877,
                         177.14682006835938
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0,
                     "scale": [
                         0.7100002765655518,
                         0.7100002765655518,
                         0.7100002765655518
                     ],
-                    "rotation": 0,
+                    "height": 592.7520141601562,
                     "position": [
                         -523.316650390625,
                         -238.74871826171875,
                         -180.1353302001953
                     ],
-                    "height": 592.7520141601562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5577,15 +5577,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         0.7203787565231323,
                         -0.22310678660869598,
@@ -5600,18 +5599,19 @@
                         0.542364239692688,
                         326.7961120605469
                     ],
+                    "op": "BO_Add",
+                    "rotation": 0,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 0,
+                    "height": 602.5399169921875,
                     "position": [
                         -395.698486328125,
                         -315.72357177734375,
                         326.79608154296875
                     ],
-                    "height": 602.5399169921875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5626,15 +5626,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_structure_13.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         0.7203787565231323,
                         -0.22310678660869598,
@@ -5649,18 +5648,19 @@
                         -0.542364239692688,
                         -326.7961120605469
                     ],
+                    "op": "BO_Add",
+                    "rotation": 0,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 0,
+                    "height": 602.5399169921875,
                     "position": [
                         -395.698486328125,
                         -315.72357177734375,
                         326.79608154296875
                     ],
-                    "height": 602.5399169921875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5675,15 +5675,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.07063152641057968,
                         0.2885851562023163,
@@ -5698,18 +5697,19 @@
                         -0.18949761986732483,
                         -179.3155975341797
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0,
                     "scale": [
                         0.6300003528594971,
                         0.6300003528594971,
                         0.6300003528594971
                     ],
-                    "rotation": 0,
+                    "height": 596.1493530273438,
                     "position": [
                         -531.8673095703125,
                         219.07225036621094,
                         -181.42117309570312
                     ],
-                    "height": 596.1493530273438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5724,15 +5724,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.07063152641057968,
                         0.2885851562023163,
@@ -5747,18 +5746,19 @@
                         0.18949761986732483,
                         179.31561279296875
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0,
                     "scale": [
                         0.6300003528594971,
                         0.6300003528594971,
                         0.6300003528594971
                     ],
-                    "rotation": 0,
+                    "height": 596.1493530273438,
                     "position": [
                         -531.8673095703125,
                         219.07225036621094,
                         -181.42117309570312
                     ],
-                    "height": 596.1493530273438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5773,15 +5773,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.46663621068000793,
                         -0.194785475730896,
@@ -5796,18 +5795,19 @@
                         -0.4379582405090332,
                         -264.176025390625
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": -1.269999384880066,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -1.269999384880066,
+                    "height": 603.1990966796875,
                     "position": [
                         -520.4000244140625,
                         152.4593963623047,
                         -264.1761779785156
                     ],
-                    "height": 603.1990966796875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5822,15 +5822,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.46663621068000793,
                         -0.194785475730896,
@@ -5845,18 +5844,19 @@
                         0.4379582405090332,
                         264.1760559082031
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": -1.269999384880066,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -1.269999384880066,
+                    "height": 603.1990966796875,
                     "position": [
                         -520.4000244140625,
                         152.4593963623047,
                         -264.1761779785156
                     ],
-                    "height": 603.1990966796875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5871,15 +5871,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.10777890682220459,
                         0.459699422121048,
@@ -5894,18 +5893,19 @@
                         -0.2985422611236572,
                         -175.87847900390625
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 0,
+                    "height": 589.1242065429688,
                     "position": [
                         -531.6600341796875,
                         220.62509155273438,
                         -180.05812072753906
                     ],
-                    "height": 589.1242065429688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5920,15 +5920,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         -0.10777890682220459,
                         0.459699422121048,
@@ -5943,18 +5942,19 @@
                         0.2985422611236572,
                         175.87847900390625
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": 0,
+                    "height": 589.1242065429688,
                     "position": [
                         -531.6600341796875,
                         220.62509155273438,
                         -180.05812072753906
                     ],
-                    "height": 589.1242065429688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -5969,15 +5969,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_pit_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         0.017329979687929153,
                         0.0036425949074327946,
@@ -5992,18 +5991,19 @@
                         0.0036269533447921276,
                         1.4817767143249512
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": -1.5599991083145142,
                     "scale": [
                         1.4799995422363281,
                         1.4799995422363281,
                         1.4799995422363281
                     ],
-                    "rotation": -1.5599991083145142,
+                    "height": 604.6476440429688,
                     "position": [
                         -604.6043701171875,
                         -7.081428527832031,
                         1.481842041015625
                     ],
-                    "height": 604.6476440429688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6018,15 +6018,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_medium_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_medium_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -0.6529139876365662,
                         0.6801269054412842,
@@ -6041,18 +6040,19 @@
                         -0.6230376958847046,
                         -372.9770202636719
                     ],
+                    "op": "BO_Add",
+                    "rotation": -1.6099990606307983,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -1.6099990606307983,
+                    "height": 598.6427612304688,
                     "position": [
                         -199.5653076171875,
                         423.59765625,
                         -372.97705078125
                     ],
-                    "height": 598.6427612304688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6067,15 +6067,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/metal/brushes/metal_t1_medium_2_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/metal/brushes/metal_t1_medium_2_ramp.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -0.6529139876365662,
                         0.6801269054412842,
@@ -6090,18 +6089,19 @@
                         0.6230376958847046,
                         372.9770202636719
                     ],
+                    "op": "BO_Add",
+                    "rotation": -1.6099990606307983,
                     "scale": [
                         1,
                         1,
                         1
                     ],
-                    "rotation": -1.6099990606307983,
+                    "height": 598.6427612304688,
                     "position": [
                         -199.5653076171875,
                         423.59765625,
                         -372.97705078125
                     ],
-                    "height": 598.6427612304688,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6116,15 +6116,14 @@
                     "no_features": true
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         3.013678550720215,
                         0.3483097553253174,
@@ -6139,18 +6138,19 @@
                         -1.0555715560913086,
                         -201.03775024414062
                     ],
+                    "op": "BO_Add",
+                    "rotation": -0.5200000405311584,
                     "scale": [
                         3.1599979400634766,
                         3.1599979400634766,
                         3.1599979400634766
                     ],
-                    "rotation": -0.5200000405311584,
+                    "height": 601.8340454101562,
                     "position": [
                         168.4207763671875,
                         541.684814453125,
                         -201.03778076171875
                     ],
-                    "height": 601.8340454101562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6165,15 +6165,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         3.013678550720215,
                         0.3483097553253174,
@@ -6188,18 +6187,19 @@
                         1.0555715560913086,
                         201.03775024414062
                     ],
+                    "op": "BO_Add",
+                    "rotation": -0.5200000405311584,
                     "scale": [
                         3.1599979400634766,
                         3.1599979400634766,
                         3.1599979400634766
                     ],
-                    "rotation": -0.5200000405311584,
+                    "height": 601.8340454101562,
                     "position": [
                         168.4207763671875,
                         541.684814453125,
                         -201.03778076171875
                     ],
-                    "height": 601.8340454101562,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6214,15 +6214,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         1.6143592596054077,
                         -0.8695981502532959,
@@ -6237,18 +6236,19 @@
                         -1.3585280179977417,
                         -329.6534729003906
                     ],
+                    "op": "BO_Add",
+                    "rotation": -1.079999566078186,
                     "scale": [
                         2.4799985885620117,
                         2.4799985885620117,
                         2.4799985885620117
                     ],
-                    "rotation": -1.079999566078186,
+                    "height": 601.7838134765625,
                     "position": [
                         405.1708984375,
                         298.845947265625,
                         -329.65350341796875
                     ],
-                    "height": 601.7838134765625,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6263,15 +6263,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         1.6143592596054077,
                         -0.8695981502532959,
@@ -6286,18 +6285,19 @@
                         1.3585280179977417,
                         329.6534729003906
                     ],
+                    "op": "BO_Add",
+                    "rotation": -1.079999566078186,
                     "scale": [
                         2.4799985885620117,
                         2.4799985885620117,
                         2.4799985885620117
                     ],
-                    "rotation": -1.079999566078186,
+                    "height": 601.7838134765625,
                     "position": [
                         405.1708984375,
                         298.845947265625,
                         -329.65350341796875
                     ],
-                    "height": 601.7838134765625,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6312,15 +6312,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_10.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -1.3600921630859375,
                         -0.10231459140777588,
@@ -6335,18 +6334,19 @@
                         0.04068734496831894,
                         11.97496223449707
                     ],
+                    "op": "BO_Add",
+                    "rotation": 2.2499985694885254,
                     "scale": [
                         2.039999008178711,
                         2.039999008178711,
                         2.039999008178711
                     ],
-                    "rotation": 2.2499985694885254,
+                    "height": 600.4056396484375,
                     "position": [
                         446.4771728515625,
                         401.2501220703125,
                         11.974884033203125
                     ],
-                    "height": 600.4056396484375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6361,15 +6361,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_08.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -3.2203361988067627,
                         0.3174554407596588,
@@ -6384,18 +6383,19 @@
                         -0.04728325456380844,
                         -8.696863174438477
                     ],
+                    "op": "BO_Add",
+                    "rotation": -2.9199979305267334,
                     "scale": [
                         3.259997844696045,
                         3.259997844696045,
                         3.259997844696045
                     ],
-                    "rotation": -2.9199979305267334,
+                    "height": 599.6151733398438,
                     "position": [
                         -72.703369140625,
                         595.127685546875,
                         -8.696914672851562
                     ],
-                    "height": 599.6151733398438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6410,15 +6410,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         5.013685703277588,
                         -5.183541297912598,
@@ -6433,18 +6432,19 @@
                         -5.075954437255859,
                         -409.8822021484375
                     ],
+                    "op": "BO_Add",
+                    "rotation": 0.21999996900558472,
                     "scale": [
                         7.439993858337402,
                         7.439993858337402,
                         7.439993858337402
                     ],
-                    "rotation": 0.21999996900558472,
+                    "height": 600.77783203125,
                     "position": [
                         147.73797607421875,
                         413.6470947265625,
                         -409.88238525390625
                     ],
-                    "height": 600.77783203125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6459,15 +6459,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_01.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         5.013685703277588,
                         -5.183541297912598,
@@ -6482,18 +6481,19 @@
                         5.075954437255859,
                         409.8822021484375
                     ],
+                    "op": "BO_Add",
+                    "rotation": 0.21999996900558472,
                     "scale": [
                         7.439993858337402,
                         7.439993858337402,
                         7.439993858337402
                     ],
-                    "rotation": 0.21999996900558472,
+                    "height": 600.77783203125,
                     "position": [
                         147.73797607421875,
                         413.6470947265625,
                         -409.88238525390625
                     ],
-                    "height": 600.77783203125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6508,15 +6508,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Subtract",
                     "transform": [
                         3.531952381134033,
                         -0.4551381766796112,
@@ -6531,18 +6530,19 @@
                         -0.036829471588134766,
                         -6.165234088897705
                     ],
+                    "op": "BO_Subtract",
+                    "rotation": 0,
                     "scale": [
                         3.5899975299835205,
                         3.5899975299835205,
                         3.5899975299835205
                     ],
-                    "rotation": 0,
+                    "height": 600.9636840820312,
                     "position": [
                         -76.02304077148438,
                         -596.1038818359375,
                         -6.165283203125
                     ],
-                    "height": 600.9636840820312,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6557,15 +6557,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_11.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         0.2667582035064697,
                         2.5277533531188965,
@@ -6580,18 +6579,19 @@
                         0.09684917330741882,
                         20.426651000976562
                     ],
+                    "op": "BO_Add",
+                    "rotation": -1.019999384880066,
                     "scale": [
                         2.839998245239258,
                         2.839998245239258,
                         2.839998245239258
                     ],
-                    "rotation": -1.019999384880066,
+                    "height": 598.9896240234375,
                     "position": [
                         267.19244384765625,
                         -535.7047119140625,
                         20.426620483398438
                     ],
-                    "height": 598.9896240234375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6606,15 +6606,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -1.383868932723999,
                         4.30538272857666,
@@ -6629,18 +6628,19 @@
                         -2.207836627960205,
                         -284.8350830078125
                     ],
+                    "op": "BO_Add",
+                    "rotation": -1.4999991655349731,
                     "scale": [
                         4.639996528625488,
                         4.639996528625488,
                         4.639996528625488
                     ],
-                    "rotation": -1.4999991655349731,
+                    "height": 598.6102905273438,
                     "position": [
                         133.95755004882812,
                         -509.1744384765625,
                         -284.83514404296875
                     ],
-                    "height": 598.6102905273438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6655,15 +6655,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_03.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         -1.383868932723999,
                         4.30538272857666,
@@ -6678,18 +6677,19 @@
                         2.207836627960205,
                         284.8350830078125
                     ],
+                    "op": "BO_Add",
+                    "rotation": -1.4999991655349731,
                     "scale": [
                         4.639996528625488,
                         4.639996528625488,
                         4.639996528625488
                     ],
-                    "rotation": -1.4999991655349731,
+                    "height": 598.6102905273438,
                     "position": [
                         133.95755004882812,
                         -509.1744384765625,
                         -284.83514404296875
                     ],
-                    "height": 598.6102905273438,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6704,15 +6704,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         2.0936899185180664,
                         -0.12526386976242065,
@@ -6727,18 +6726,19 @@
                         -1.072868824005127,
                         -282.5413513183594
                     ],
+                    "op": "BO_Add",
+                    "rotation": -0.6299996972084045,
                     "scale": [
                         2.279998779296875,
                         2.279998779296875,
                         2.279998779296875
                     ],
-                    "rotation": -0.6299996972084045,
+                    "height": 600.4405517578125,
                     "position": [
                         -235.4256591796875,
                         -474.63037109375,
                         -282.54144287109375
                     ],
-                    "height": 600.4405517578125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6753,15 +6753,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_07.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         2.0936899185180664,
                         -0.12526386976242065,
@@ -6776,18 +6775,19 @@
                         1.072868824005127,
                         282.5413513183594
                     ],
+                    "op": "BO_Add",
+                    "rotation": -0.6299996972084045,
                     "scale": [
                         2.279998779296875,
                         2.279998779296875,
                         2.279998779296875
                     ],
-                    "rotation": -0.6299996972084045,
+                    "height": 600.4405517578125,
                     "position": [
                         -235.4256591796875,
                         -474.63037109375,
                         -282.54144287109375
                     ],
-                    "height": 600.4405517578125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6802,15 +6802,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         3.599963426589966,
                         0.14344489574432373,
@@ -6825,18 +6824,19 @@
                         -2.954759120941162,
                         -483.5823669433594
                     ],
+                    "op": "BO_Add",
+                    "rotation": -0.5899997353553772,
                     "scale": [
                         3.6599974632263184,
                         3.6599974632263184,
                         3.6599974632263184
                     ],
-                    "rotation": -0.5899997353553772,
+                    "height": 599.0032348632812,
                     "position": [
                         -105.46609497070312,
                         -337.386962890625,
                         -483.582275390625
                     ],
-                    "height": 599.0032348632812,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -6851,15 +6851,14 @@
                     "no_features": false
                 },
                 {
-                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
+                    "spec": "/pa/terrain/ice/brushes/ice_cliff_06.json",
                     "proj": "BP_Bend",
-                    "op": "BO_Add",
                     "transform": [
                         3.599963426589966,
                         0.14344489574432373,
@@ -6874,18 +6873,19 @@
                         2.954759120941162,
                         483.5823669433594
                     ],
+                    "op": "BO_Add",
+                    "rotation": -0.5899997353553772,
                     "scale": [
                         3.6599974632263184,
                         3.6599974632263184,
                         3.6599974632263184
                     ],
-                    "rotation": -0.5899997353553772,
+                    "height": 599.0032348632812,
                     "position": [
                         -105.46609497070312,
                         -337.386962890625,
                         -483.582275390625
                     ],
-                    "height": 599.0032348632812,
                     "weightHard": false,
                     "weightScale": [
                         1,
