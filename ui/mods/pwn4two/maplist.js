@@ -3,6 +3,8 @@ cShareSystems.load_pas("Pwn4two", [
 	"coui://ui/mods/pwn4two/systems/1v1_or_shared.pas",
 	"coui://ui/mods/pwn4two/systems/molten.pas",
 	"coui://ui/mods/pwn4two/systems/frontlines.pas",
+	"coui://ui/mods/pwn4two/systems/frozen.pas",
+	"coui://ui/mods/pwn4two/systems/lockery.pas",
         "coui://ui/mods/pwn4two/systems/control.pas",
 	"coui://ui/mods/pwn4two/systems/trials.pas",
 	"coui://ui/mods/pwn4two/systems/chlorophyte.pas",
