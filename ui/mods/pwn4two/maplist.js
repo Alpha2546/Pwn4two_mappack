@@ -22,5 +22,6 @@ cShareSystems.load_pas("Pwn4two", [
 	"coui://ui/mods/pwn4two/systems/incontrovertible.pas",	
 	"coui://ui/mods/pwn4two/systems/5v5_shared.pas",
 	"coui://ui/mods/pwn4two/systems/dodecahedron.pas",
+	"coui://ui/mods/pwn4two/systems/wadiya_2017.pas",
         "coui://ui/mods/pwn4two/systems/all_out war.pas"
 ]);
