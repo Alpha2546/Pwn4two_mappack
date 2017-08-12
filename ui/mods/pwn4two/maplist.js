@@ -5,6 +5,7 @@ cShareSystems.load_pas("Pwn4two", [
 	"coui://ui/mods/pwn4two/systems/frontlines.pas",
 	"coui://ui/mods/pwn4two/systems/frozen.pas",
 	"coui://ui/mods/pwn4two/systems/lockery.pas",
+	"coui://ui/mods/pwn4two/systems/forest_temple.pas",
         "coui://ui/mods/pwn4two/systems/control.pas",
 	"coui://ui/mods/pwn4two/systems/trials.pas",
 	"coui://ui/mods/pwn4two/systems/chlorophyte.pas",
