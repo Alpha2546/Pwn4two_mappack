@@ -1,4 +1,5 @@
 cShareSystems.load_pas("Pwn4two", [
+	"coui://ui/mods/pwn4two/systems/lava_fight.pas",
         "coui://ui/mods/pwn4two/systems/kappa_shared.pas",
 	"coui://ui/mods/pwn4two/systems/1v1_or_shared.pas",
 	"coui://ui/mods/pwn4two/systems/molten.pas",
