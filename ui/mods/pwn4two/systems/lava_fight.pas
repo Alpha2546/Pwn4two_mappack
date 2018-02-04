@@ -4,7 +4,7 @@
 "creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/10/11",
-	"description": "A map for 1v1 or shared team play. Limited metal, every bit spent counts.",
+	"description": "A map for 1v1 or shared team play.",
    "planets": [
         {
             "name": "Webway",
