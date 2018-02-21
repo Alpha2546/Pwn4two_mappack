@@ -1,18 +1,18 @@
 {
     "name": "Mirrored Place",
- 
+   
 "creator": "Pwn4two",
 	"version": "1",
 	"date": "2015/11/17",
 	"description": "A map designed for 8 player ffa.",
-   "planets": [
+ "planets": [
         {
             "name": "Testinchen",
             "mass": 5000,
-            "position_x": 124800,
-            "position_y": 200,
-            "velocity_x": -0.10143880546092987,
-            "velocity_y": 63.296085357666016,
+            "position_x": 50600,
+            "position_y": -300,
+            "velocity_x": 0.5893399119377136,
+            "velocity_y": 99.40271759033203,
             "required_thrust_to_move": 3,
             "starting_planet": true,
             "respawn": false,
@@ -40,14 +40,15 @@
             },
             "planetCSG": [
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.2220643311738968,
                         -0.2231709212064743,
@@ -62,19 +63,18 @@
                         0.31447750329971313,
                         245.88973999023438
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 2.3259973526000977,
                     "scale": [
                         0.6435206532478333,
                         0.6435206532478333,
                         0.6435206532478333
                     ],
-                    "height": 503.1683349609375,
+                    "rotation": 2.3259973526000977,
                     "position": [
                         -438.840576171875,
                         -11.642423629760742,
                         245.88978576660156
                     ],
+                    "height": 503.1683349609375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -89,14 +89,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.9874461889266968,
                         0.5111519694328308,
@@ -111,19 +112,18 @@
                         0.9959776997566223,
                         444.5195007324219
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 5.844281196594238,
                     "scale": [
                         1.1272006034851074,
                         1.1272006034851074,
                         1.1272006034851074
                     ],
-                    "height": 503.0862121582031,
+                    "rotation": 5.844281196594238,
                     "position": [
                         -82.60435485839844,
                         220.6233367919922,
                         444.51947021484375
                     ],
+                    "height": 503.0862121582031,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -138,14 +138,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.5153450965881348,
                         0.5406457781791687,
@@ -160,19 +161,18 @@
                         0.21065589785575867,
                         131.15875244140625
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 3.6539483070373535,
                     "scale": [
                         0.8090955018997192,
                         0.8090955018997192,
                         0.8090955018997192
                     ],
-                    "height": 503.75970458984375,
+                    "rotation": 3.6539483070373535,
                     "position": [
                         -193.6712188720703,
                         -446.16436767578125,
                         131.15870666503906
                     ],
+                    "height": 503.75970458984375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -187,14 +187,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.20988355576992035,
                         0.6553837060928345,
@@ -209,19 +210,18 @@
                         0.5651557445526123,
                         361.7969055175781
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 4.56547737121582,
                     "scale": [
                         0.7885687947273254,
                         0.7885687947273254,
                         0.7885687947273254
                     ],
-                    "height": 504.8196716308594,
+                    "rotation": 4.56547737121582,
                     "position": [
                         246.49688720703125,
                         -251.36668395996094,
                         361.7969055175781
                     ],
+                    "height": 504.8196716308594,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -236,14 +236,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.5853555798530579,
                         0.4228978157043457,
@@ -258,19 +259,18 @@
                         0.6624212265014648,
                         404.8996887207031
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 3.660649061203003,
                     "scale": [
                         0.8241562247276306,
                         0.8241562247276306,
                         0.8241562247276306
                     ],
-                    "height": 503.7588806152344,
+                    "rotation": 3.660649061203003,
                     "position": [
                         242.77142333984375,
                         175.7591552734375,
                         404.89971923828125
                     ],
+                    "height": 503.7588806152344,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -285,14 +285,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.20836950838565826,
                         -0.16189312934875488,
@@ -307,19 +308,18 @@
                         0.14122213423252106,
                         115.64582824707031
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 1.3286843299865723,
                     "scale": [
                         0.6126265525817871,
                         0.6126265525817871,
                         0.6126265525817871
                     ],
-                    "height": 501.6756591796875,
+                    "rotation": 1.3286843299865723,
                     "position": [
                         -452.7553405761719,
                         182.52967834472656,
                         115.64586639404297
                     ],
+                    "height": 501.6756591796875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -334,14 +334,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         1.1283104419708252,
                         -0.15882885456085205,
@@ -356,19 +357,18 @@
                         0.8723971247673035,
                         342.0453186035156
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 6.243347644805908,
                     "scale": [
                         1.2878389358520508,
                         1.2878389358520508,
                         1.2878389358520508
                     ],
-                    "height": 504.9297790527344,
+                    "rotation": 6.243347644805908,
                     "position": [
                         -235.3164520263672,
                         -287.3764953613281,
                         342.04534912109375
                     ],
+                    "height": 504.9297790527344,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -383,14 +383,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.7906432747840881,
                         -0.17187876999378204,
@@ -405,19 +406,18 @@
                         0.020638693124055862,
                         12.591352462768555
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 2.737182140350342,
                     "scale": [
                         0.8247796297073364,
                         0.8247796297073364,
                         0.8247796297073364
                     ],
-                    "height": 503.1855163574219,
+                    "rotation": 2.737182140350342,
                     "position": [
                         97.61811828613281,
                         493.46514892578125,
                         12.591341018676758
                     ],
+                    "height": 503.1855163574219,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -432,14 +432,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.09648491442203522,
                         0.7309929132461548,
@@ -454,19 +455,18 @@
                         0.5645319819450378,
                         332.892822265625
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 5.039549350738525,
                     "scale": [
                         0.853061318397522,
                         0.853061318397522,
                         0.853061318397522
                     ],
-                    "height": 503.0325927734375,
+                    "rotation": 5.039549350738525,
                     "position": [
                         -252.98109436035156,
                         279.68682861328125,
                         332.892822265625
                     ],
+                    "height": 503.0325927734375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -481,14 +481,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.9159411191940308,
                         -0.25917235016822815,
@@ -503,19 +504,18 @@
                         0.9222913384437561,
                         486.3132019042969
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0.27262839674949646,
                     "scale": [
                         0.9521958827972412,
                         0.9521958827972412,
                         0.9521958827972412
                     ],
-                    "height": 502.0815124511719,
+                    "rotation": 0.27262839674949646,
                     "position": [
                         -12.463279724121094,
                         -124.2174301147461,
                         486.313232421875
                     ],
+                    "height": 502.0815124511719,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -530,14 +530,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.12569788098335266,
                         1.225018858909607,
@@ -552,19 +553,18 @@
                         0.8707672357559204,
                         356.2705383300781
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 4.806416034698486,
                     "scale": [
                         1.2316935062408447,
                         1.2316935062408447,
                         1.2316935062408447
                     ],
-                    "height": 503.94189453125,
+                    "rotation": 4.806416034698486,
                     "position": [
                         -10.004633903503418,
                         -356.2705078125,
                         356.27056884765625
                     ],
+                    "height": 503.94189453125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -579,14 +579,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.2220643311738968,
                         -0.2231709212064743,
@@ -601,19 +602,18 @@
                         -0.31447750329971313,
                         -245.88973999023438
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 2.3259973526000977,
                     "scale": [
                         0.6435206532478333,
                         0.6435206532478333,
                         0.6435206532478333
                     ],
-                    "height": 503.1683349609375,
+                    "rotation": 2.3259973526000977,
                     "position": [
                         -438.840576171875,
                         -11.642423629760742,
                         245.88978576660156
                     ],
+                    "height": 503.1683349609375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -628,14 +628,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.9874461889266968,
                         0.5111519694328308,
@@ -650,19 +651,18 @@
                         -0.9959776997566223,
                         -444.5195007324219
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 5.844281196594238,
                     "scale": [
                         1.1272006034851074,
                         1.1272006034851074,
                         1.1272006034851074
                     ],
-                    "height": 503.0862121582031,
+                    "rotation": 5.844281196594238,
                     "position": [
                         -82.60435485839844,
                         220.6233367919922,
                         444.51947021484375
                     ],
+                    "height": 503.0862121582031,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -677,14 +677,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.5153450965881348,
                         0.5406457781791687,
@@ -699,19 +700,18 @@
                         -0.21065589785575867,
                         -131.1587371826172
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 3.6539483070373535,
                     "scale": [
                         0.8090955018997192,
                         0.8090955018997192,
                         0.8090955018997192
                     ],
-                    "height": 503.75970458984375,
+                    "rotation": 3.6539483070373535,
                     "position": [
                         -193.6712188720703,
                         -446.16436767578125,
                         131.15870666503906
                     ],
+                    "height": 503.75970458984375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -726,14 +726,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.20988355576992035,
                         0.6553837060928345,
@@ -748,19 +749,18 @@
                         -0.5651557445526123,
                         -361.796875
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 4.56547737121582,
                     "scale": [
                         0.7885687947273254,
                         0.7885687947273254,
                         0.7885687947273254
                     ],
-                    "height": 504.8196716308594,
+                    "rotation": 4.56547737121582,
                     "position": [
                         246.49688720703125,
                         -251.36668395996094,
                         361.7969055175781
                     ],
+                    "height": 504.8196716308594,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -775,14 +775,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         -0.5853555798530579,
                         0.4228978157043457,
@@ -797,19 +798,18 @@
                         -0.6624212265014648,
                         -404.899658203125
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 3.660649061203003,
                     "scale": [
                         0.8241562247276306,
                         0.8241562247276306,
                         0.8241562247276306
                     ],
-                    "height": 503.7588806152344,
+                    "rotation": 3.660649061203003,
                     "position": [
                         242.77142333984375,
                         175.7591552734375,
                         404.89971923828125
                     ],
+                    "height": 503.7588806152344,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -824,14 +824,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.20836950838565826,
                         -0.16189312934875488,
@@ -846,19 +847,18 @@
                         -0.14122213423252106,
                         -115.64582824707031
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 1.3286843299865723,
                     "scale": [
                         0.6126265525817871,
                         0.6126265525817871,
                         0.6126265525817871
                     ],
-                    "height": 501.6756591796875,
+                    "rotation": 1.3286843299865723,
                     "position": [
                         -452.7553405761719,
                         182.52967834472656,
                         115.64586639404297
                     ],
+                    "height": 501.6756591796875,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -873,14 +873,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         1.1283104419708252,
                         -0.15882885456085205,
@@ -895,19 +896,18 @@
                         -0.8723971247673035,
                         -342.0453186035156
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 6.243347644805908,
                     "scale": [
                         1.2878389358520508,
                         1.2878389358520508,
                         1.2878389358520508
                     ],
-                    "height": 504.9297790527344,
+                    "rotation": 6.243347644805908,
                     "position": [
                         -235.3164520263672,
                         -287.3764953613281,
                         342.04534912109375
                     ],
+                    "height": 504.9297790527344,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -922,14 +922,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.09648491442203522,
                         0.7309929132461548,
@@ -944,19 +945,18 @@
                         -0.5645319819450378,
                         -332.892822265625
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 5.039549350738525,
                     "scale": [
                         0.853061318397522,
                         0.853061318397522,
                         0.853061318397522
                     ],
-                    "height": 503.0325927734375,
+                    "rotation": 5.039549350738525,
                     "position": [
                         -252.98109436035156,
                         279.68682861328125,
                         332.892822265625
                     ],
+                    "height": 503.0325927734375,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -971,14 +971,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.9159411191940308,
                         -0.25917235016822815,
@@ -993,19 +994,18 @@
                         -0.9222913384437561,
                         -486.3132019042969
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 0.27262839674949646,
                     "scale": [
                         0.9521958827972412,
                         0.9521958827972412,
                         0.9521958827972412
                     ],
-                    "height": 502.0815124511719,
+                    "rotation": 0.27262839674949646,
                     "position": [
                         -12.463279724121094,
                         -124.2174301147461,
                         486.313232421875
                     ],
+                    "height": 502.0815124511719,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1020,14 +1020,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/moon/brushes/moon_crater_02.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Subtract",
                     "transform": [
                         0.12569788098335266,
                         1.225018858909607,
@@ -1042,19 +1043,18 @@
                         -0.8707672357559204,
                         -356.2705383300781
                     ],
-                    "op": "BO_Subtract",
-                    "rotation": 4.806416034698486,
                     "scale": [
                         1.2316935062408447,
                         1.2316935062408447,
                         1.2316935062408447
                     ],
-                    "height": 503.94189453125,
+                    "rotation": 4.806416034698486,
                     "position": [
                         -10.004633903503418,
                         -356.2705078125,
                         356.27056884765625
                     ],
+                    "height": 503.94189453125,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1069,14 +1069,15 @@
                     "no_features": false
                 },
                 {
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_4_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_4_ramp.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -2.6050057411193848,
                         -4.752062797546387,
@@ -1091,19 +1092,18 @@
                         -5.418973445892334,
                         -501.31549072265625
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
                     "scale": [
                         5.4199957847595215,
                         5.4199957847595215,
                         5.4199957847595215
                     ],
-                    "height": 501.4100646972656,
+                    "rotation": 0,
                     "position": [
                         -8.379692077636719,
                         -4.962095260620117,
                         -501.31549072265625
                     ],
+                    "height": 501.4100646972656,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1118,14 +1118,15 @@
                     "no_features": true
                 },
                 {
+                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_4_ramp.json",
                     "weight": [
                         1,
                         1,
                         1,
                         1
                     ],
-                    "spec": "/pa/terrain/desert/brushes/desert_metal_t2_medium_4_ramp.json",
                     "proj": "BP_Bend",
+                    "op": "BO_Add",
                     "transform": [
                         -2.6050057411193848,
                         -4.752062797546387,
@@ -1140,19 +1141,18 @@
                         5.418973445892334,
                         501.3155212402344
                     ],
-                    "op": "BO_Add",
-                    "rotation": 0,
                     "scale": [
                         5.4199957847595215,
                         5.4199957847595215,
                         5.4199957847595215
                     ],
-                    "height": 501.4100646972656,
+                    "rotation": 0,
                     "position": [
                         -8.379692077636719,
                         -4.962095260620117,
                         -501.31549072265625
                     ],
+                    "height": 501.4100646972656,
                     "weightHard": false,
                     "weightScale": [
                         1,
@@ -1289,86 +1289,6 @@
                     345.42578125
                 ],
                 [
-                    -90.97642517089844,
-                    -87.88172912597656,
-                    595.0330200195312
-                ],
-                [
-                    -33.07094192504883,
-                    -121.15021514892578,
-                    595.4474487304688
-                ],
-                [
-                    73.99823760986328,
-                    -87.45040893554688,
-                    597.7438354492188
-                ],
-                [
-                    104.06486511230469,
-                    -35.02383041381836,
-                    598.7685546875
-                ],
-                [
-                    71.84455871582031,
-                    73.98751831054688,
-                    599.5375366210938
-                ],
-                [
-                    12.723640441894531,
-                    104.55735778808594,
-                    598.9791870117188
-                ],
-                [
-                    -95.86933135986328,
-                    75.27034759521484,
-                    595.85400390625
-                ],
-                [
-                    -123.9359130859375,
-                    20.610084533691406,
-                    595.0448608398438
-                ],
-                [
-                    102.41763305664062,
-                    -34.42763900756836,
-                    -599.0369262695312
-                ],
-                [
-                    74.14900207519531,
-                    -85.59967803955078,
-                    -597.9869384765625
-                ],
-                [
-                    -36.41814041137695,
-                    -117.77494812011719,
-                    -595.8355712890625
-                ],
-                [
-                    -90.75041961669922,
-                    -86.92173767089844,
-                    -595.1773681640625
-                ],
-                [
-                    -124.13136291503906,
-                    24.480850219726562,
-                    -594.9153442382812
-                ],
-                [
-                    -96.17072296142578,
-                    74.34756469726562,
-                    -595.905029296875
-                ],
-                [
-                    13.949760437011719,
-                    104.60560607910156,
-                    -598.9683227539062
-                ],
-                [
-                    71.74441528320312,
-                    76.30857849121094,
-                    -599.29833984375
-                ],
-                [
                     397.4300231933594,
                     -338.2787170410156,
                     -318.5918884277344
@@ -1447,6 +1367,166 @@
                     -164.0478515625,
                     -500.4809875488281,
                     308.8133239746094
+                ],
+                [
+                    134.4493408203125,
+                    -238.67868041992188,
+                    545.857666015625
+                ],
+                [
+                    -5.182636260986328,
+                    -277.9517822265625,
+                    542.5300903320312
+                ],
+                [
+                    -242.06744384765625,
+                    -147.6762237548828,
+                    539.5818481445312
+                ],
+                [
+                    -282.78070068359375,
+                    -11.556327819824219,
+                    539.7515258789062
+                ],
+                [
+                    -154.63101196289062,
+                    226.03564453125,
+                    544.0359497070312
+                ],
+                [
+                    -13.99738883972168,
+                    268.03753662109375,
+                    547.0423583984375
+                ],
+                [
+                    223.00250244140625,
+                    136.4803924560547,
+                    549.983642578125
+                ],
+                [
+                    264.470458984375,
+                    -1.3263587951660156,
+                    548.6318359375
+                ],
+                [
+                    -12.480083465576172,
+                    268.6203308105469,
+                    -546.8594360351562
+                ],
+                [
+                    -151.95252990722656,
+                    225.8878631591797,
+                    -544.8003540039062
+                ],
+                [
+                    -282.02252197265625,
+                    -10.173551559448242,
+                    -540.1123657226562
+                ],
+                [
+                    -240.7186279296875,
+                    -149.81893920898438,
+                    -539.6065673828125
+                ],
+                [
+                    -4.830650329589844,
+                    -278.0966796875,
+                    -542.470947265625
+                ],
+                [
+                    135.045166015625,
+                    -237.59176635742188,
+                    -546.1221923828125
+                ],
+                [
+                    264.1488037109375,
+                    -0.08696365356445312,
+                    -548.7525634765625
+                ],
+                [
+                    222.7359619140625,
+                    138.11541748046875,
+                    -549.7257080078125
+                ],
+                [
+                    563.3502197265625,
+                    164.29721069335938,
+                    -172.3857421875
+                ],
+                [
+                    564.3302612304688,
+                    162.7612762451172,
+                    170.51759338378906
+                ],
+                [
+                    -169.02734375,
+                    563.6636352539062,
+                    162.09384155273438
+                ],
+                [
+                    -167.3022003173828,
+                    563.5297241210938,
+                    -164.50538635253906
+                ],
+                [
+                    -569.4697875976562,
+                    -166.88201904296875,
+                    -151.62767028808594
+                ],
+                [
+                    -569.44921875,
+                    -168.40240478515625,
+                    150.35455322265625
+                ],
+                [
+                    163.58981323242188,
+                    -568.1930541992188,
+                    -160.12696838378906
+                ],
+                [
+                    165.28652954101562,
+                    -567.8936157226562,
+                    159.12571716308594
+                ],
+                [
+                    258.939697265625,
+                    476.29425048828125,
+                    -149.910400390625
+                ],
+                [
+                    259.18756103515625,
+                    476.217529296875,
+                    149.31448364257812
+                ],
+                [
+                    -481.6711120605469,
+                    261.0793151855469,
+                    136.01806640625
+                ],
+                [
+                    -481.256591796875,
+                    261.87713623046875,
+                    -135.83444213867188
+                ],
+                [
+                    -266.06097412109375,
+                    -480.704345703125,
+                    -131.85549926757812
+                ],
+                [
+                    -265.182861328125,
+                    -481.1336364746094,
+                    131.0110626220703
+                ],
+                [
+                    477.0004577636719,
+                    -263.58404541015625,
+                    145.74581909179688
+                ],
+                [
+                    476.9916076660156,
+                    -263.656982421875,
+                    -145.63047790527344
                 ]
             ],
             "landing_zones": {
