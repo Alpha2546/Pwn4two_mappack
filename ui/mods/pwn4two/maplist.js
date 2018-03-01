@@ -29,5 +29,5 @@ cShareSystems.load_pas("Pwn4two", [
 	"coui://ui/mods/pwn4two/systems/wadiya_2017.pas",
         "coui://ui/mods/pwn4two/systems/all_out war.pas",
 	"coui://ui/mods/pwn4two/systems/war_of the worlds.pas",
-	"coui://ui/mods/pwn4two/systems/all_out war.pas"
+	"coui://ui/mods/pwn4two/systems/the_big squeeze.pas"
 ]);
