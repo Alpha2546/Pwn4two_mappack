@@ -1,5 +1,5 @@
 {
-    "name": "Wadiya 2017",
+    "name": "Wadiya 2018",
    
 "creator": "Pwn4two",
 	"version": "1",
