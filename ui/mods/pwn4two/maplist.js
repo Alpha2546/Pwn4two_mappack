@@ -32,7 +32,7 @@ cShareSystems.load_pas("Pwn4two", [
 	"coui://ui/mods/pwn4two/systems/duel_planets",
 	"coui://ui/mods/pwn4two/systems/the_big squeeze.pas",
 	"coui://ui/mods/pwn4two/systems/32_friends.pas",
-	"coui://ui/mods/pwn4two/systems/dualdecahedron",
+	"coui://ui/mods/pwn4two/systems/dualdecahedron.pas",
 	"coui://ui/mods/pwn4two/systems/dog_eat dog.pas"
 
 ]);
