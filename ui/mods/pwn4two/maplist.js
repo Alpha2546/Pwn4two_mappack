@@ -29,6 +29,10 @@ cShareSystems.load_pas("Pwn4two", [
 	"coui://ui/mods/pwn4two/systems/wadiya_2018.pas",
         "coui://ui/mods/pwn4two/systems/all_out war.pas",
 	"coui://ui/mods/pwn4two/systems/war_of the worlds.pas",
+	"coui://ui/mods/pwn4two/systems/duel_planets",
 	"coui://ui/mods/pwn4two/systems/the_big squeeze.pas",
-	"coui://ui/mods/pwn4two/systems/32_friends.pas"
+	"coui://ui/mods/pwn4two/systems/32_friends.pas",
+	"coui://ui/mods/pwn4two/systems/dualdecahedron"
+	"coui://ui/mods/pwn4two/systems/dog_eat dog.pas"
+
 ]);
