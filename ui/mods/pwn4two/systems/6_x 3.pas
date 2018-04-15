@@ -4,7 +4,7 @@
 "creator": "Pwn4two",
 	"version": "1",
 	"date": "2018/04/14",
-	"description": "A map designed for 6 teams of 3, unshared.",
+	"description": "A map designed for 6 teams of 3, unshared. Combox.",
   "planets": [
         {
             "name": "Stoleburn",
