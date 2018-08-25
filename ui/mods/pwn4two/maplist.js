@@ -1,6 +1,9 @@
 cShareSystems.load_pas("Pwn4two", [
 	"coui://ui/mods/pwn4two/systems/ice_combat.pas",
 	"coui://ui/mods/pwn4two/systems/lava_fight.pas",
+	"coui://ui/mods/pwn4two/systems/icecream_donut utensil.pas",
+	"coui://ui/mods/pwn4two/systems/pwning_grounds.pas",
+	"coui://ui/mods/pwn4two/systems/training_ground.pas",
         "coui://ui/mods/pwn4two/systems/kappa_shared.pas",
 	"coui://ui/mods/pwn4two/systems/1v1_or_shared.pas",
 	"coui://ui/mods/pwn4two/systems/molten.pas",
