@@ -4,7 +4,7 @@
 "creator": "Pwn4two",
 	"version": "1",
 	"date": "2018/08/25",
-	"description": "A map designed for 1v1 play or 2v2 shared.",
+	"description": "A small map designed for 1v1 play.",
   "planets": [
         {
             "name": "Rookie",
