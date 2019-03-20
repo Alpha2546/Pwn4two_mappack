@@ -1,4 +1,5 @@
 cShareSystems.load_pas("Pwn4two 1v1 and Shared Teamplay", [
+	"coui://ui/mods/pwn4two/systems/motherlode.pas",
 	"coui://ui/mods/pwn4two/systems/arecibo.pas",
 	"coui://ui/mods/pwn4two/systems/galneryus.pas",
 	"coui://ui/mods/pwn4two/systems/ice_combat.pas",
