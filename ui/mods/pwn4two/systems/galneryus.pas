@@ -1,6 +1,11 @@
 {
-    "name": "Galneryus",
-    "planets": [
+    "name": "(NEW) Galneryus",
+ 
+	"creator": "Pwn4two",
+	"version": "1",
+	"date": "2019/3/16",
+	"description": "A map for 1v1 or shared team play.",
+   "planets": [
         {
             "name": "Salvation",
             "mass": 10000,

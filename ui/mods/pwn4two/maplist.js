@@ -1,4 +1,6 @@
 cShareSystems.load_pas("Pwn4two 1v1 and Shared Teamplay", [
+	"coui://ui/mods/pwn4two/systems/arecibo.pas",
+	"coui://ui/mods/pwn4two/systems/galneryus.pas",
 	"coui://ui/mods/pwn4two/systems/ice_combat.pas",
 	"coui://ui/mods/pwn4two/systems/lava_fight.pas",
 	"coui://ui/mods/pwn4two/systems/icecream_donut utensil.pas",
@@ -11,6 +13,7 @@ cShareSystems.load_pas("Pwn4two 1v1 and Shared Teamplay", [
 	"coui://ui/mods/pwn4two/systems/forest_temple.pas",
 	"coui://ui/mods/pwn4two/systems/trials.pas",
         "coui://ui/mods/pwn4two/systems/farenheit.pas",
+	"coui://ui/mods/pwn4two/systems/incontrovertible.pas",
 	"coui://ui/mods/pwn4two/systems/war_of the worlds.pas"
 ]);
 
@@ -42,7 +45,6 @@ cShareSystems.load_pas("Pwn4two Junk", [
 	"coui://ui/mods/pwn4two/systems/chronos.pas",
 	"coui://ui/mods/pwn4two/systems/mirrored_place.pas",
 	"coui://ui/mods/pwn4two/systems/return_home.pas",
-	"coui://ui/mods/pwn4two/systems/incontrovertible.pas",
 	"coui://ui/mods/pwn4two/systems/5v5_shared.pas",
 	"coui://ui/mods/pwn4two/systems/6_x 3.pas"
 ]);

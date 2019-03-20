@@ -1,5 +1,5 @@
 {
-    "name": "Arecibo",
+    "name": "(NEW) Arecibo",
   
 "creator": "Pwn4two",
 	"version": "1",
